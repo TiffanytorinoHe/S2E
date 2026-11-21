@@ -1,0 +1,1991 @@
+[
+  {
+    "group": "l5pc_ampa",
+    "case": 0,
+    "original_path": "data/provenance/original_inputs/l5pc_ampa/case_000.npz",
+    "original_sha256": "46b960b1820fa7eefd245b1e113a5b34ee20c45ba5eb27f31679bb568006d095",
+    "packaged_input_sha256": "36e23688411686a346e9f31403e5026b74dcdd04a2e2418651bc07bc1934cca7",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_ampa",
+    "case": 1,
+    "original_path": "data/provenance/original_inputs/l5pc_ampa/case_001.npz",
+    "original_sha256": "f27809525568f90d7bc19e08dad281fda4e71d69e1f088fafb10dbc40d258446",
+    "packaged_input_sha256": "5380bae9ece2f69f089a70167ff99c17af1a60e57707170a534ece71a1b72552",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_ampa",
+    "case": 2,
+    "original_path": "data/provenance/original_inputs/l5pc_ampa/case_002.npz",
+    "original_sha256": "ef0cf66515fdf7c1f177d0cd9fc8aeef971df1741d3da56a6ddeb087f788b302",
+    "packaged_input_sha256": "172b881a6b799e4874f0cbd7f5855c72ea1aeb50a366021385df0942e60a72ea",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_ampa",
+    "case": 3,
+    "original_path": "data/provenance/original_inputs/l5pc_ampa/case_003.npz",
+    "original_sha256": "4d1dc585efe03d74ec57fde35e48a53035346b44a490997d6efb7131be60d539",
+    "packaged_input_sha256": "07e68f781f66f92cdd9e6ab062da3bcaeebe35605daa7519049e9b519c5576fb",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_ampa",
+    "case": 4,
+    "original_path": "data/provenance/original_inputs/l5pc_ampa/case_004.npz",
+    "original_sha256": "d8ece8e0a2e3de92e94d331f3f37dac9951b934e7c903ff7a09a66651cfe70a2",
+    "packaged_input_sha256": "a967e9d97277d0df0750557ee019811e72d537ce62ff8cca0202909fcb431a44",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_ampa",
+    "case": 5,
+    "original_path": "data/provenance/original_inputs/l5pc_ampa/case_005.npz",
+    "original_sha256": "a473c58833ca7a81a5dd24bd640222f1825d71d1e9c31f7c07fa0b157b5c6053",
+    "packaged_input_sha256": "8a4e588edcc7a06323e48f87a1b0c07b3320b09f9d66fcc57a0028d01c95906a",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_ampa",
+    "case": 6,
+    "original_path": "data/provenance/original_inputs/l5pc_ampa/case_006.npz",
+    "original_sha256": "f3fe9b1f290a8f50e973eaf8fb72fd796ea72b45818cfa40bbdf7d803f2a3e64",
+    "packaged_input_sha256": "f36a92bc9d8248a8419f0576eea10476f6186e200f16c738168c186886c3f2eb",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_ampa",
+    "case": 7,
+    "original_path": "data/provenance/original_inputs/l5pc_ampa/case_007.npz",
+    "original_sha256": "5f4a57dd49d8c4691a215c4ca85244c1d4121082945cb76dac91def5eecc535a",
+    "packaged_input_sha256": "37bc8b40662f0d744c874591d1c033b28074bf8665d66bf450da21402bbfde9f",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_ampa",
+    "case": 8,
+    "original_path": "data/provenance/original_inputs/l5pc_ampa/case_008.npz",
+    "original_sha256": "be54aa1fc90e889b309a209cc410104a7dbffb839be82cb64d8940e823a9cd03",
+    "packaged_input_sha256": "c7ae6794bf082e214bb7e1741e5524c5d1816e1a37e29d879d1aace0241b028b",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_ampa",
+    "case": 9,
+    "original_path": "data/provenance/original_inputs/l5pc_ampa/case_009.npz",
+    "original_sha256": "669b9b03c59ef96a824436f2d799ec18ea8b6428d65e40b8c1226058f6251249",
+    "packaged_input_sha256": "18e2b65db2051a18e6730551765827382d160b444aae6762150949141a63cd8c",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_ampa",
+    "case": 10,
+    "original_path": "data/provenance/original_inputs/l5pc_ampa/case_010.npz",
+    "original_sha256": "2af1823c685c385c62f3efbaee5639ccf28c28f5487f244303fecc4251f018bd",
+    "packaged_input_sha256": "fd0e91d60785fdb1802deafc91031f772b0adf2ef0b54ec6eac8284a610fb780",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_ampa",
+    "case": 11,
+    "original_path": "data/provenance/original_inputs/l5pc_ampa/case_011.npz",
+    "original_sha256": "e6ac1a32b7d891cbc09f12a2d2b9d990b3797c314dc05b9314ed736161558e91",
+    "packaged_input_sha256": "2ec929eeb57594babe735206b766e1e00ca0b546100c7ac875b38242553804ac",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_ampa",
+    "case": 12,
+    "original_path": "data/provenance/original_inputs/l5pc_ampa/case_012.npz",
+    "original_sha256": "df49a56fb5a40b57dff162e05d9edae12e48fe41d4832874038b4bb5e60f7d62",
+    "packaged_input_sha256": "3463ef083a4591b6dce41d0fc585b3b83c7235739bfc97e6ec376b0b9636cd06",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_ampa",
+    "case": 13,
+    "original_path": "data/provenance/original_inputs/l5pc_ampa/case_013.npz",
+    "original_sha256": "d104d4f4698e4534255a4968fadde971c949db1147f961a228b41734a6afc77a",
+    "packaged_input_sha256": "96a308330ca8d94da0df6cfe60fef9f33eb52ce9d146c6b42595b793517a9e56",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_ampa",
+    "case": 14,
+    "original_path": "data/provenance/original_inputs/l5pc_ampa/case_014.npz",
+    "original_sha256": "135fc083bac935e47ef564befb19beea4f327b0c1352528385fc24c002743470",
+    "packaged_input_sha256": "95e7633b93a0827cb11dbff335de7e64514cead38124898c625bf4789877c260",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_ampa",
+    "case": 15,
+    "original_path": "data/provenance/original_inputs/l5pc_ampa/case_015.npz",
+    "original_sha256": "bdb059ac0d53bfb943e3d3563b5077024ab8adb38e16338fea588318f4f10e77",
+    "packaged_input_sha256": "3cb6e48054a856551c9ed3b75c16dcb8da6ccb2feb1b5ab1f2c19d4b1bb3d531",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_ampa",
+    "case": 16,
+    "original_path": "data/provenance/original_inputs/l5pc_ampa/case_016.npz",
+    "original_sha256": "4a8e65c3af868cf87bda88246940c4e7b225312eb67e04f9e321cfaeecde7ead",
+    "packaged_input_sha256": "741c5b38e160c18be4d8ef370bb457a4e536a41f26c4e6ffbf186bcab1996e29",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_ampa",
+    "case": 17,
+    "original_path": "data/provenance/original_inputs/l5pc_ampa/case_017.npz",
+    "original_sha256": "7744d62b4a054aed2c5203584f1296ded1d259016b55e8d091964a4829323711",
+    "packaged_input_sha256": "991b14e59fd50a9f98142b3e5527a23956a8b27149726fc8a881cb3f5d860938",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_ampa",
+    "case": 18,
+    "original_path": "data/provenance/original_inputs/l5pc_ampa/case_018.npz",
+    "original_sha256": "c9295258b5a878c454a58e07f56eb16011f3c11a3c8a42f3917959f63d89461e",
+    "packaged_input_sha256": "2ba68482ba686f05a02ca0f0f392bcbd0365a69887fded2dca1efb182659588f",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_ampa",
+    "case": 19,
+    "original_path": "data/provenance/original_inputs/l5pc_ampa/case_019.npz",
+    "original_sha256": "a26f6a2cdd205b0aee1de2e2a64aecb00b4c3c7f1a2e28f1627430fa5772fceb",
+    "packaged_input_sha256": "c8352b0cf983f68a1d8ca8b3023a792ce5b7a8b2dd60fd3ce4ffbe6eab87fbd5",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_ampa",
+    "case": 20,
+    "original_path": "data/provenance/original_inputs/l5pc_ampa/case_020.npz",
+    "original_sha256": "b0141d693c2a55d508dc06bb22df16b4123663915262f273c0141e1f405ea68b",
+    "packaged_input_sha256": "1b8f542a633da3bb265b98d4470086c9045bbb049ae52e1f2f0f4c9f52a600cc",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_ampa",
+    "case": 21,
+    "original_path": "data/provenance/original_inputs/l5pc_ampa/case_021.npz",
+    "original_sha256": "b21730b53b0119706ab632b3d81b89166f13b0375c8ded7bee4b635e5141bbde",
+    "packaged_input_sha256": "3d50b61a5e241a6fc39405572a1eb97d4f2bf0293eefa8081d7d56094563a2a6",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_ampa",
+    "case": 22,
+    "original_path": "data/provenance/original_inputs/l5pc_ampa/case_022.npz",
+    "original_sha256": "cbda8d56b8fd88d9fa4fe9260de0a37998946ed678a0ca0200f7906088016ba7",
+    "packaged_input_sha256": "d18882da99512f4dba21eacec4d392f16da0a796299d7115c09ee4fd6156b9ab",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_nmda",
+    "case": 0,
+    "original_path": "data/provenance/original_inputs/l5pc_nmda/case_000.npz",
+    "original_sha256": "15e08fbb20e7b2fcb4dddb7021a34c4f7a195367db0272e2946f1e23b17446c2",
+    "packaged_input_sha256": "3368d57880891b7f1f14d982bb24565e927f73291b7bf04b0293927d02ba7726",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_nmda",
+    "case": 1,
+    "original_path": "data/provenance/original_inputs/l5pc_nmda/case_001.npz",
+    "original_sha256": "51a62544c157a1f4cc11aea97678fe12f3d9adf58f09afdb9943fd11fdc8283e",
+    "packaged_input_sha256": "50f76c6b73e8f24d24cc7f7686aabd858529176e722cfd8e766f0ca48aaf7b2f",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_nmda",
+    "case": 2,
+    "original_path": "data/provenance/original_inputs/l5pc_nmda/case_002.npz",
+    "original_sha256": "89e01136f4a6c4dbae5c7906645f7d3d9fd4678b0ecc358c942be3518d0fee1c",
+    "packaged_input_sha256": "55990be56dd16f4e285dd5581af9628c175f48cfc00467eed1ca4589cc68ca80",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_nmda",
+    "case": 3,
+    "original_path": "data/provenance/original_inputs/l5pc_nmda/case_003.npz",
+    "original_sha256": "1a6065d8df215831d9113c3550f6feeb8e7d0452fcf94d60c93965ebb2345067",
+    "packaged_input_sha256": "c0b1b0528953a1fa7cdce0af6eddaef50b25a9074138bc517228d41744388160",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_nmda",
+    "case": 4,
+    "original_path": "data/provenance/original_inputs/l5pc_nmda/case_004.npz",
+    "original_sha256": "da12b977cf4ace4c07f29a23c4c6df531bbb16033ce754ecc634394146781a2d",
+    "packaged_input_sha256": "490b69b1a52369c9bb721acbf4dccba6adc610bd264834a6c2b8d1f6174f8499",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_nmda",
+    "case": 5,
+    "original_path": "data/provenance/original_inputs/l5pc_nmda/case_005.npz",
+    "original_sha256": "fcf1dadb671e22e825236ff7c5f242f0bce40fc77d8375d2b9e7791be39feae4",
+    "packaged_input_sha256": "9a0451f6a808e2d3b7184429ca06e9f0eb81d4a0a5e63294787fd117ec02591e",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_nmda",
+    "case": 6,
+    "original_path": "data/provenance/original_inputs/l5pc_nmda/case_006.npz",
+    "original_sha256": "8f6bd4e5b92ef66ec49fffbfe56d8da254b3ac870170f58cc9d0ac38b0b70d81",
+    "packaged_input_sha256": "01886676db38199283c258f7367b3f610d0d80ece1bd281929124aa536a6ac30",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_nmda",
+    "case": 7,
+    "original_path": "data/provenance/original_inputs/l5pc_nmda/case_007.npz",
+    "original_sha256": "cb01bc259e4b7e32e20ea308d47df89934a63977fa4c5f0265c52f8267e0fe0d",
+    "packaged_input_sha256": "11c09ccf523d735a732dfbf602e93579aa2eac8a904a8db987bb870a8c1509fa",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_nmda",
+    "case": 8,
+    "original_path": "data/provenance/original_inputs/l5pc_nmda/case_008.npz",
+    "original_sha256": "7fadc9026f32dd1146aba033c6aaec3b3fdd6573639541bd9ea4aeb6b4d60bc9",
+    "packaged_input_sha256": "21004041cd0d97ccdbb6e88079134a6bed0b632484df6ed62d94ab19e047eae3",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_nmda",
+    "case": 9,
+    "original_path": "data/provenance/original_inputs/l5pc_nmda/case_009.npz",
+    "original_sha256": "eb55d494b86d69cc29d8a388d30e0584280a8cf815ddee0fc0f0f4f1140cc771",
+    "packaged_input_sha256": "255062ff73a361cccb78de5ac1a587bc55a651ae822c8be4bbe1f8232c2f442b",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_nmda",
+    "case": 10,
+    "original_path": "data/provenance/original_inputs/l5pc_nmda/case_010.npz",
+    "original_sha256": "9f170d6c2edca655cff5b6f8292108241dbc062bfd3cf7f7de4ab2f29bea435a",
+    "packaged_input_sha256": "a5ecbdac7d76da031dae8e6fa019cf3a805da1e77a7d7728401dc11eb04cc634",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_nmda",
+    "case": 11,
+    "original_path": "data/provenance/original_inputs/l5pc_nmda/case_011.npz",
+    "original_sha256": "b5bcd454b5d2e2f26e28a3ecd4e7a9444897f4a2746df270eb1097f2c8fbf760",
+    "packaged_input_sha256": "680a4598edc4ab45af9be46b8160a5f0064f3138bf71ce6efbbcb4b0ffcd51ab",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_nmda",
+    "case": 12,
+    "original_path": "data/provenance/original_inputs/l5pc_nmda/case_012.npz",
+    "original_sha256": "5b14eee6f1fe92d5f2586823cae93fe1f8afca36248b79ed5b1b44bfc7ba4828",
+    "packaged_input_sha256": "8f39c927fb4386b0ce06b37e00503182782307b112caf59d2cb1415b610f7407",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_nmda",
+    "case": 13,
+    "original_path": "data/provenance/original_inputs/l5pc_nmda/case_013.npz",
+    "original_sha256": "9a22ee7a4af4899321a7568688800f1ca4badbf88e503c979edfa4ad8713b034",
+    "packaged_input_sha256": "3771cf7d60600b0e865d956e7b2da7319df8365698b59f6b73640556a8231037",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_nmda",
+    "case": 14,
+    "original_path": "data/provenance/original_inputs/l5pc_nmda/case_014.npz",
+    "original_sha256": "c1b0277cd2264f098adfaf90fa7d1f36e9feef4a0f043a200bca3ab4b2b0d4fb",
+    "packaged_input_sha256": "f812590c4727f05c4869f8c0c9fab52742ae426f9be36404e2d747b105a8baf2",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_nmda",
+    "case": 15,
+    "original_path": "data/provenance/original_inputs/l5pc_nmda/case_015.npz",
+    "original_sha256": "487d9be06d3dbf19b4ca4b00b2ede9d17cfe8fb4a7876e32f83cb99d8fda62a4",
+    "packaged_input_sha256": "2e50ea21319f5f6d8cb480f2054ee3b90776b69e160227045e976007c45899a9",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_nmda",
+    "case": 16,
+    "original_path": "data/provenance/original_inputs/l5pc_nmda/case_016.npz",
+    "original_sha256": "dc7c6e9c914a68a29a4306de8f26b89e5160aefdc804724a48a5e53d97c59a06",
+    "packaged_input_sha256": "e5180c0103495e3e643a4d3e87c509587be7ceb459061e28c93937d2d645a9cd",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_nmda",
+    "case": 17,
+    "original_path": "data/provenance/original_inputs/l5pc_nmda/case_017.npz",
+    "original_sha256": "64aea6be1e8abf911f377dac7119c57720ba431eec199a6bcb80dc0faefceeb5",
+    "packaged_input_sha256": "c70c4c1b8b5cff2a3e8334d82db56861eae816e3d177b5000e20975c8916a2f7",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_nmda",
+    "case": 18,
+    "original_path": "data/provenance/original_inputs/l5pc_nmda/case_018.npz",
+    "original_sha256": "a9b781a45d2b417aae94478b70aa7b36fe3306c7be503a7bfdfa5bbc4ba9ad55",
+    "packaged_input_sha256": "872986803b74d074acc2a15978cb08bbae669976107960e6c9b85025981b8841",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_nmda",
+    "case": 19,
+    "original_path": "data/provenance/original_inputs/l5pc_nmda/case_019.npz",
+    "original_sha256": "cf7f3992434d2d3e27e8c1ac03afe5185712bf1f1768a5502c1c71c3dfc708c7",
+    "packaged_input_sha256": "c9eb67367aa85d0e53559adbd2c9b5bd1c8997ffd06aa12b9a31538510105308",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_nmda",
+    "case": 20,
+    "original_path": "data/provenance/original_inputs/l5pc_nmda/case_020.npz",
+    "original_sha256": "c3c20238701660a21aa880ee8c77036802caa05ee483723c81ea65d616896b31",
+    "packaged_input_sha256": "e708b684d89576a3996dad660edbcf13bab4b405a28e5adf0e38994398ffe832",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_nmda",
+    "case": 21,
+    "original_path": "data/provenance/original_inputs/l5pc_nmda/case_021.npz",
+    "original_sha256": "97bb7951df77847861e61344b513cdbf38751a7b103f2d185223b72a061a9f82",
+    "packaged_input_sha256": "d57237b870336fbbb749e7066897c3670673fcfbff585a7cfc8285e3e917f999",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_nmda",
+    "case": 22,
+    "original_path": "data/provenance/original_inputs/l5pc_nmda/case_022.npz",
+    "original_sha256": "9f192481272b0a5781c08c4e29e87763336bccb760b521501c775aa857a3f59a",
+    "packaged_input_sha256": "2af996a30389f107b4894a45826cd80e4b3f43fcd44ad7e9d454442c5c747515",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_nmda",
+    "case": 23,
+    "original_path": "data/provenance/original_inputs/l5pc_nmda/case_023.npz",
+    "original_sha256": "63068834acfd6079150a248362071bf5c84748343e23ce1059ecc8770a942edd",
+    "packaged_input_sha256": "40403e50ad753343e0f041a5a2ef62ad90db0a27644e0e7d809341b45d16a6e4",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_nmda",
+    "case": 24,
+    "original_path": "data/provenance/original_inputs/l5pc_nmda/case_024.npz",
+    "original_sha256": "5087a5c53548553824e89cd5468dfce2c3b52da6028fd0b73475adc33f154326",
+    "packaged_input_sha256": "e6e97daf7b2f5d5417230bde91d192bc1f19e232099dae8d941be587591ed9d8",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_bhigh",
+    "case": 0,
+    "original_path": "data/provenance/original_inputs/l5pc_bhigh/case_000.npz",
+    "original_sha256": "3eacf315cd1c796d988444f2bb88385b02c4c70cd62f264a418a4f8b5150fd26",
+    "packaged_input_sha256": "24045ea4fae7af8ffcc347564a052340504a62eb79abefe3b723a5f16294135d",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_bhigh",
+    "case": 1,
+    "original_path": "data/provenance/original_inputs/l5pc_bhigh/case_001.npz",
+    "original_sha256": "3e8dcc8bee42e622105a6e0b6e184dc4afcd8ee38b6eb6f35fa21400bc847c52",
+    "packaged_input_sha256": "e86c3e73724c4d63f8b498a5d9b625c823b22135c82b1f03e539c0038a31bb8d",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_bhigh",
+    "case": 2,
+    "original_path": "data/provenance/original_inputs/l5pc_bhigh/case_002.npz",
+    "original_sha256": "e7c7b6efde4f50944a8e022029afa05596617b2f4d73ec4cb383a672c6e4054f",
+    "packaged_input_sha256": "ffe2b42c9e15053cd4c3a366e8b26981f9c585f898fce847c8b113fc85aa91ba",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_bhigh",
+    "case": 3,
+    "original_path": "data/provenance/original_inputs/l5pc_bhigh/case_003.npz",
+    "original_sha256": "e8444b7a4e36a95a989a8b6f31c02e3db4f3796bff5591429eeb69cdc6c41bd2",
+    "packaged_input_sha256": "b8c1baa9f4f80efcaea5f4b73afe1b9ccee3f2faf9ba122e4adc715f04c80eac",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_bhigh",
+    "case": 4,
+    "original_path": "data/provenance/original_inputs/l5pc_bhigh/case_004.npz",
+    "original_sha256": "e414b8e1083c30ffcdb18779497793a4878c821c5f1f81ecc424be7a55fe4bf1",
+    "packaged_input_sha256": "bcd40c0ab80d976a7a1005ea648f02340ef2af8f26a3a095a31dcec13a21a534",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_bhigh",
+    "case": 5,
+    "original_path": "data/provenance/original_inputs/l5pc_bhigh/case_005.npz",
+    "original_sha256": "f17d71193e8698ae583e1b9e6755ed39c3a92ee4ecb0f7b67978ac0f07a779b3",
+    "packaged_input_sha256": "d9d4f2c4f7ddeaa573c569a047b189203c100ca662c162f4b2a8c97829c9c95c",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_bhigh",
+    "case": 6,
+    "original_path": "data/provenance/original_inputs/l5pc_bhigh/case_006.npz",
+    "original_sha256": "420f48366b807b0bade0409b8aa914f9bbce25b5ef824eaed30d6065b87b1cac",
+    "packaged_input_sha256": "f7d909e03c39f8cd50231b0a38ff13cda67279bf95d66e649a27988d042f1650",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_bhigh",
+    "case": 7,
+    "original_path": "data/provenance/original_inputs/l5pc_bhigh/case_007.npz",
+    "original_sha256": "67d2cd262420fa3ac7c1f3461c3a404823c667b0c9d9b6da6aca67ae88ec0db8",
+    "packaged_input_sha256": "41af112dad3cab517a286a34ad7b7d463108c397960f5651376fa5ffebf0f0f0",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_bhigh",
+    "case": 8,
+    "original_path": "data/provenance/original_inputs/l5pc_bhigh/case_008.npz",
+    "original_sha256": "eee0547d93e7328b6a7cf3438a0b5cc0308b4e2f104ab922d746581d19564a89",
+    "packaged_input_sha256": "5177f9fc0b78dd96a5e6718fe5140d3ef4378bd59afece9fbfc5e04156e194ed",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_bhigh",
+    "case": 9,
+    "original_path": "data/provenance/original_inputs/l5pc_bhigh/case_009.npz",
+    "original_sha256": "575d33a63ebc61c9725f40e5bc82666dd093501406a183fd25c9bc845b70be8d",
+    "packaged_input_sha256": "ab7a15961c7e99787b1689e6fb852ef6711da651c6513c1a22e5df32e1a0f60b",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_bhigh",
+    "case": 10,
+    "original_path": "data/provenance/original_inputs/l5pc_bhigh/case_010.npz",
+    "original_sha256": "9552ccfd23111fa65333d3bc6cfa19e26779de0008cb02b51f0579023d5efc39",
+    "packaged_input_sha256": "fe825a92ae08c8638eb1db8acd54abde4a597e6546e01c7ca611ebb08719365e",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_bhigh",
+    "case": 11,
+    "original_path": "data/provenance/original_inputs/l5pc_bhigh/case_011.npz",
+    "original_sha256": "6cbd6a20f1764ed837e473ac8c0a36feaa7c889163107c65d5c9db8eaac55f90",
+    "packaged_input_sha256": "0bc820f0e666116aa17269bdd80d30b8eeadb046daa1cfafbf8863aa32cf6498",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_bhigh",
+    "case": 12,
+    "original_path": "data/provenance/original_inputs/l5pc_bhigh/case_012.npz",
+    "original_sha256": "a21f18ee8d0a0b734fb1a7e8e2c2800b0cc0e4d0da422293e5ae60a69fd15a19",
+    "packaged_input_sha256": "41cab7f162d81577cba41c0bc11a22ee75ee13b77d41f08140b7169130e4bf97",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_bhigh",
+    "case": 13,
+    "original_path": "data/provenance/original_inputs/l5pc_bhigh/case_013.npz",
+    "original_sha256": "ca726ed26e6dc12b181d23e57902d0d470241b0f5d90941254d03f0c25c93f46",
+    "packaged_input_sha256": "7f64c929dc29bdb4589296875af56c10f93943a55ad4322ae5e3f9449cf12622",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_bhigh",
+    "case": 14,
+    "original_path": "data/provenance/original_inputs/l5pc_bhigh/case_014.npz",
+    "original_sha256": "cdb764b763af364afe07019f9c435c71e9a91d238e00388fbb844eaf001cf73f",
+    "packaged_input_sha256": "00c17f13fb928ae2981ddd8f08843527b3854bbc792e682248ae2dce21bdc4f2",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_bhigh",
+    "case": 15,
+    "original_path": "data/provenance/original_inputs/l5pc_bhigh/case_015.npz",
+    "original_sha256": "92ed750fff55a4b91750c5882176c512753d5ce58d265dd07dc6477814b1368d",
+    "packaged_input_sha256": "74e86d1aba27e9fea2dafcac473ce84c0edfbe79cdebf1fc31a43ad3ab4b1e2a",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_bhigh",
+    "case": 16,
+    "original_path": "data/provenance/original_inputs/l5pc_bhigh/case_016.npz",
+    "original_sha256": "82fab0c1ec4177108040eb4f6a2812aa30d9f1c38cdc26182cff561062d5564f",
+    "packaged_input_sha256": "7e515ea127478b2549439d27e9f1e4e7bdef2396b62c29c60028403064e98681",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_bhigh",
+    "case": 17,
+    "original_path": "data/provenance/original_inputs/l5pc_bhigh/case_017.npz",
+    "original_sha256": "d59f61af0e30f5725f1b06fb0e85c66ddf65623b933a6b217dcadb0563053976",
+    "packaged_input_sha256": "56ec6769cbfe827c522f038e27df1b645b97a74a47bbcbf3af98087958328065",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_bhigh",
+    "case": 18,
+    "original_path": "data/provenance/original_inputs/l5pc_bhigh/case_018.npz",
+    "original_sha256": "0f71adeb478b3433d7ca5b4417125436ec3b44cfda79569422f7b86040a1d63f",
+    "packaged_input_sha256": "4c80cd64e780f8deda4d8eac556b615c3f0f8ae73ecbf1e41f9966dd5e956eee",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_bhigh",
+    "case": 19,
+    "original_path": "data/provenance/original_inputs/l5pc_bhigh/case_019.npz",
+    "original_sha256": "45dffc10318792e69c01eacd10031d500577b9cc19d4b5b79af1a10f49e55db6",
+    "packaged_input_sha256": "4441f8f8ebfb840efaa64e2a6542c26d338a4c22b46b2ccc51fceff1e133e066",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_bhigh",
+    "case": 20,
+    "original_path": "data/provenance/original_inputs/l5pc_bhigh/case_020.npz",
+    "original_sha256": "9781535d40f47ebdd7ca9f6cc721bd20c20fa5fd97461812dcf4609cdee8e373",
+    "packaged_input_sha256": "636fd3fbbb7cc171754686670c442b88e25360a5966f85670e9039e7b4fe3553",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_bhigh",
+    "case": 21,
+    "original_path": "data/provenance/original_inputs/l5pc_bhigh/case_021.npz",
+    "original_sha256": "a11819678d99cc762ce91a32478c5bf0352ae7f62a30f3fb0216c26abc76f1cb",
+    "packaged_input_sha256": "59fbe679c75058203d7b6f9473e11f4d4c65b80d3b5a4ce53ee17a079740c131",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_bhigh",
+    "case": 22,
+    "original_path": "data/provenance/original_inputs/l5pc_bhigh/case_022.npz",
+    "original_sha256": "20b9dd9ecf70b73b8860de0fc205bc6587e1e54e58de19b7fa0e72c19ed7eb0d",
+    "packaged_input_sha256": "41e0e55433002865237987f310b3f60aa7c8ea44b926da01724449938d4df9d6",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_bhigh",
+    "case": 23,
+    "original_path": "data/provenance/original_inputs/l5pc_bhigh/case_023.npz",
+    "original_sha256": "5533215004132075fae2f0d3b57a9b5c2e3de9606dfa7247a2d2026f26861f1d",
+    "packaged_input_sha256": "1bf7b1a199888876ea597b85bc767230b47f8056ce815a75f8dddb135e113c90",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_bhigh",
+    "case": 24,
+    "original_path": "data/provenance/original_inputs/l5pc_bhigh/case_024.npz",
+    "original_sha256": "69f5a707d34a28a910f618a356595c36765c6ff065f2cc0bf228f6f767da3ad7",
+    "packaged_input_sha256": "c3dd8d75dc3f76d464b43d7eec292dfb567867982a47bfddc74816b6d617fda7",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_bhigh",
+    "case": 26,
+    "original_path": "data/provenance/original_inputs/l5pc_bhigh/case_026.npz",
+    "original_sha256": "c0ce73fcda13af54a7a08b05882870d470b3319975c5f64645793aa4a4121a33",
+    "packaged_input_sha256": "51885a9c5ea33446a4020bad22238c1df31bcbd96075a39ae3e76487307e6aa0",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_bhigh",
+    "case": 27,
+    "original_path": "data/provenance/original_inputs/l5pc_bhigh/case_027.npz",
+    "original_sha256": "eaed4c577471e06dd7a469677846f7b0ffa3610af11579fb942db7ca4671de07",
+    "packaged_input_sha256": "ef20510706d791819d49c7b4948b15f8a9d19a5a28ff0ef3fdc9e67b010a0ab4",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_sync",
+    "case": 0,
+    "original_path": "data/provenance/original_inputs/l5pc_sync/case_000.npz",
+    "original_sha256": "0667898cb1ae6d58aac051298b639e0d16f545b257d2985ef357745a49b6f998",
+    "packaged_input_sha256": "5337da2f4a63fcf875c24ad4840fd2725a802c9ea40205e79c642efd04b9b1be",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_sync",
+    "case": 1,
+    "original_path": "data/provenance/original_inputs/l5pc_sync/case_001.npz",
+    "original_sha256": "7c4fb302cf406da0e837a9fee44ae53b62afed4721d6274411634dcacf55f223",
+    "packaged_input_sha256": "87ce1d38e10a9bed1af2551960d8886750e8941c2bf4b5f99f5280d9762e6587",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_sync",
+    "case": 2,
+    "original_path": "data/provenance/original_inputs/l5pc_sync/case_002.npz",
+    "original_sha256": "9dce1b50488bf16edbaadb04fd84e33c022c8721cf9761aa67a91b9092e9dd32",
+    "packaged_input_sha256": "c5c1fe8fec5c1dbafa03450fe94ba63f8cf0120a5a5c1194982f0a465e410bf5",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_sync",
+    "case": 3,
+    "original_path": "data/provenance/original_inputs/l5pc_sync/case_003.npz",
+    "original_sha256": "fb58f78840a17e96ac876a7fd11a6cc48109b67d47a30351da847ca9b65bde45",
+    "packaged_input_sha256": "7924308a51b7315269798ed41d56f2afdd55a55a06f87d15cb28546e6aaf47d6",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_sync",
+    "case": 4,
+    "original_path": "data/provenance/original_inputs/l5pc_sync/case_004.npz",
+    "original_sha256": "bd675cad4eded01ab7819fa510e9eaa9272903b1cb76eea90f76345d5a5ba479",
+    "packaged_input_sha256": "b74a7b1588a73b70d62ba49be7f70f494ad1f8f0cf318cd39ffef73e68e59a49",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_sync",
+    "case": 5,
+    "original_path": "data/provenance/original_inputs/l5pc_sync/case_005.npz",
+    "original_sha256": "374e4839ab4c78f9f75d80c7e259947c43e0d490351fae39501a4dfb39f6b153",
+    "packaged_input_sha256": "4f351c9e173119fce196f9be8106965b2b62d236e316e25dc26164db235cbfa9",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_sync",
+    "case": 6,
+    "original_path": "data/provenance/original_inputs/l5pc_sync/case_006.npz",
+    "original_sha256": "0fabd41772e4b3e6d4d09430cdba52f6e5081e3481c1b440de3216510b41aa54",
+    "packaged_input_sha256": "f5afbe26f120e88408d45f4fdbbf27290985f755d979e21221f1c554aefd53af",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_sync",
+    "case": 7,
+    "original_path": "data/provenance/original_inputs/l5pc_sync/case_007.npz",
+    "original_sha256": "06da6d37bb83b1595cabd1bcbaeb9503045967c449a7c64e5da9edf95bbec39f",
+    "packaged_input_sha256": "0f6b048adf64079add8a85ddf5d1b49ef132d0a4fee694d24766bd6ffa5ad068",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_sync",
+    "case": 8,
+    "original_path": "data/provenance/original_inputs/l5pc_sync/case_008.npz",
+    "original_sha256": "549898ab4c27d777651b5ae4dc7c5b177f47a0616ef292b5a14eede6701fd547",
+    "packaged_input_sha256": "75095fd818f51a9843e63676c9a3f6b613987669aba3e909ed3eddf1ab33dced",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_sync",
+    "case": 9,
+    "original_path": "data/provenance/original_inputs/l5pc_sync/case_009.npz",
+    "original_sha256": "09365835d5b2e9d6d79d7c60e425199dd47fb1cc75a3d51b055959f1d91e8fff",
+    "packaged_input_sha256": "999ec9cde6f10fcdc7e79e8a941fb6b56ce2eca8e906ab1135a8e2546bd38d30",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_sync",
+    "case": 10,
+    "original_path": "data/provenance/original_inputs/l5pc_sync/case_010.npz",
+    "original_sha256": "587730a3c76925c5d0700da2787c9ed6e8bd28f633b5d08045f8a2570ce5b2a0",
+    "packaged_input_sha256": "5d94017b74985e2a96d3191c54677da6c50a34db477e480f564447b99d3985dc",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_sync",
+    "case": 11,
+    "original_path": "data/provenance/original_inputs/l5pc_sync/case_011.npz",
+    "original_sha256": "4846216590cb3749644bdba4572c35a2bf00bb5997956a515e9b61e72ee2f756",
+    "packaged_input_sha256": "97951375d9fd3519b4f9e8bac112ec9bc12ec457c96851df1796d400e60c4788",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_sync",
+    "case": 12,
+    "original_path": "data/provenance/original_inputs/l5pc_sync/case_012.npz",
+    "original_sha256": "d8e5df1ab48110127070489fbe258fd28ef62771564c6e843f53481bfbabfc3a",
+    "packaged_input_sha256": "10021494d6ea8cc6eedd6f30f7561b4773b47cd95f844e55854dff4e7ce06ab7",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_sync",
+    "case": 13,
+    "original_path": "data/provenance/original_inputs/l5pc_sync/case_013.npz",
+    "original_sha256": "126cc8d7839f5d59b4f30028f02dbbea68dc402bf031b47b303fd92c3177c63e",
+    "packaged_input_sha256": "4e25a29cbc6da0e695e16f6c26cc91b4d0d157abb64919d45494774e6e12dda2",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_sync",
+    "case": 14,
+    "original_path": "data/provenance/original_inputs/l5pc_sync/case_014.npz",
+    "original_sha256": "4739a20e8127da2b7b24dceb9f70fbb7208073be9258a1b0198f56b259d84c53",
+    "packaged_input_sha256": "f85f458d5bc54d329e62ceb6bb420b4c691c5d04751cf8eedcc665bf4dc5c1ca",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_sync",
+    "case": 15,
+    "original_path": "data/provenance/original_inputs/l5pc_sync/case_015.npz",
+    "original_sha256": "ee6ad45d4c5855f0c51083010c57220fbf177f39d0dcf3cc6dea3e51bfc1e73a",
+    "packaged_input_sha256": "4cbcb19399fbfbdd4554973be4be227f0bc1fb80d7e0ea79b434c95ae0c710d2",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_sync",
+    "case": 16,
+    "original_path": "data/provenance/original_inputs/l5pc_sync/case_016.npz",
+    "original_sha256": "06f5891b1eea89e5e8d2f4eaaec5a326b36c3309b8d168837243d464a72da2ec",
+    "packaged_input_sha256": "62d74106a267f8b008f681886c294ef2bc8385e1e5711026c0a6102556ee9636",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_sync",
+    "case": 17,
+    "original_path": "data/provenance/original_inputs/l5pc_sync/case_017.npz",
+    "original_sha256": "5896e25c9294db13c62bc6c3b23c89ff8efc26e6a6fd605a000695d617fd7fe7",
+    "packaged_input_sha256": "6978ec7a2db913ca7b9a5b1db5a112b8d2aa1bd2340d499dab8c8311228d2a12",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_sync",
+    "case": 18,
+    "original_path": "data/provenance/original_inputs/l5pc_sync/case_018.npz",
+    "original_sha256": "9838f1e149f1da24c2314d137484e377048a70732c08eb7cdfed734e43f36459",
+    "packaged_input_sha256": "6574f947d2342a82d13b76a2749e995470f33a4ea10df6f12fd09ad780554779",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_sync",
+    "case": 19,
+    "original_path": "data/provenance/original_inputs/l5pc_sync/case_019.npz",
+    "original_sha256": "49f2643db20603bd5fa70f751fd386a97d1c9bd5f773bbcb0a74a066dc1984d8",
+    "packaged_input_sha256": "85d1abc4a27843effe7579a8d11170df8274ff6d39b49a6e8edb9f5b71b8455b",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_sync",
+    "case": 20,
+    "original_path": "data/provenance/original_inputs/l5pc_sync/case_020.npz",
+    "original_sha256": "2950b7090c4cda9d0af9dc9a78052636dd333af955564052d5daa8f8a0042922",
+    "packaged_input_sha256": "857ee434568aaf6daca2a161adc48c68bbcf35120d8aaaf6e7f72dfa65b34da2",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_sync",
+    "case": 21,
+    "original_path": "data/provenance/original_inputs/l5pc_sync/case_021.npz",
+    "original_sha256": "a3dfcf22e44a48b9051b749728491073271ff03c08783ac1c107bbd4c0bd7712",
+    "packaged_input_sha256": "1a5189f3c2b1200662c3968e0dec3ccf5b7d446425e76768e5ce50a95658d421",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_sync",
+    "case": 22,
+    "original_path": "data/provenance/original_inputs/l5pc_sync/case_022.npz",
+    "original_sha256": "fc0cd61edbc665cf3a43ab723ca03929f5947d57c81c5f347a26de7509c37cdb",
+    "packaged_input_sha256": "2fdda0ae7ac29bd828b5a82c30987d97ce49e9c6f6e2a495652b98fa81ebd28f",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_sync",
+    "case": 23,
+    "original_path": "data/provenance/original_inputs/l5pc_sync/case_023.npz",
+    "original_sha256": "8130939ed87cd067bcee974c632fb4539ddd6104cc4b5f595784a821b0892ee1",
+    "packaged_input_sha256": "d38a14bae3ddcfabdb83800ff67eb250535255bbae284aefc36024f1fd30b25c",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_sync",
+    "case": 24,
+    "original_path": "data/provenance/original_inputs/l5pc_sync/case_024.npz",
+    "original_sha256": "71964abaa78d280fdb64c1abfc7962c1041165726b348504be82d6f59c4548ca",
+    "packaged_input_sha256": "3e77e6d8aa7d2319c60af8815aaf2370bb31640b304fa1e062b17cf7788fe739",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_sync",
+    "case": 25,
+    "original_path": "data/provenance/original_inputs/l5pc_sync/case_025.npz",
+    "original_sha256": "2b823164255ee58a04f3bc7624c00f6c9c8219a5c05db921b5c16a76425ccf69",
+    "packaged_input_sha256": "ea3ad1b1f0e3a6c76d3745f977ee07ce53951a9b3a3371665c7186201c5ef941",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_sync",
+    "case": 26,
+    "original_path": "data/provenance/original_inputs/l5pc_sync/case_026.npz",
+    "original_sha256": "0904cc6b47254ef0675b37e147d5512178283849fff0074aea37802328a92221",
+    "packaged_input_sha256": "b2c8f1dde2080242a09f861114236768e9c7ea5dd1e27d7abccc55bbfd621cc5",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_sync",
+    "case": 27,
+    "original_path": "data/provenance/original_inputs/l5pc_sync/case_027.npz",
+    "original_sha256": "922c4509e3387691a68d99da3301d19ffb57528129cc265ec08eff98fb363534",
+    "packaged_input_sha256": "6081f69053671ce81fdd8d4f25744b240a0bed91dc7c2f35c60d71c9b221db90",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_sync",
+    "case": 28,
+    "original_path": "data/provenance/original_inputs/l5pc_sync/case_028.npz",
+    "original_sha256": "7f9fd90b6d6661f158e5d1bbfd3287bd52fc9b4ba3f5a0d4e0654ac7cab3735b",
+    "packaged_input_sha256": "9213acd197555fd6e5f4b01dadcb54d061aa1de2b989f46eb534743a52950e85",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "l5pc_sync",
+    "case": 29,
+    "original_path": "data/provenance/original_inputs/l5pc_sync/case_029.npz",
+    "original_sha256": "6c0cb82f7c41e94bff98b7c7ff5afc698dab66dea6aab2b68cc859b30dcb508c",
+    "packaged_input_sha256": "ea27240d2e6f5aff8de1dbdc3d92d2b71a0610a9865736ade6a6b78ff8bf6e65",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_nmda",
+    "case": 0,
+    "original_path": "data/provenance/original_inputs/msn_nmda/case_000.npz",
+    "original_sha256": "d18569291a65beb3b2d209c9334aebd23aebddce2e63736967d01131e286a30c",
+    "packaged_input_sha256": "ebdb3a37996d6d839aa34a7c1d587f1a95525c2e92083b8cc9f1d5626741eaff",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_nmda",
+    "case": 1,
+    "original_path": "data/provenance/original_inputs/msn_nmda/case_001.npz",
+    "original_sha256": "dd61ee1059f8c30eba007bfb99ff2157f758653a938958b4d1fe463e6f61104f",
+    "packaged_input_sha256": "e3eb2f1f179bbec9ca55aa1233b7e83286b8a04d949ef1258c501375b4da4157",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_nmda",
+    "case": 2,
+    "original_path": "data/provenance/original_inputs/msn_nmda/case_002.npz",
+    "original_sha256": "c082403e1b0640d771f05d5a16fcfe7603b3f7bf7f6681ff3511d23cce7959b5",
+    "packaged_input_sha256": "cd449e87a57fc740e9ab062eaeeb76371f5c4584f67ffea73aaa614dc819573e",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_nmda",
+    "case": 3,
+    "original_path": "data/provenance/original_inputs/msn_nmda/case_003.npz",
+    "original_sha256": "3f34fa05fc30dc49436a0acc738905f973989f32ab6187687f4125a306956dec",
+    "packaged_input_sha256": "4799e03b93637f4ad851250acced4059bee4278f14989fe033d4fc84e4f629d0",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_nmda",
+    "case": 4,
+    "original_path": "data/provenance/original_inputs/msn_nmda/case_004.npz",
+    "original_sha256": "237f1b5c73a2c2523507e3f8a2b93297e23c3dcd708ec6a085106b8ba97deea3",
+    "packaged_input_sha256": "decf914abd7561cac31b4ba43d1fc37c21eed8acf11d4f4bb594d23fe3265f5c",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_nmda",
+    "case": 5,
+    "original_path": "data/provenance/original_inputs/msn_nmda/case_005.npz",
+    "original_sha256": "b15286d363244345b83cd1c5ece2a8f3e500e7f35b16922fc0d270d821f60fc1",
+    "packaged_input_sha256": "e525b27c7f797d34c59d91019a1b77b7957c5f393d4bfcbe87bc1c357154a838",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_nmda",
+    "case": 6,
+    "original_path": "data/provenance/original_inputs/msn_nmda/case_006.npz",
+    "original_sha256": "d3302b74faa274f853e235d1a1a8ffa6671d2c5501fce80d13eebf325c05039c",
+    "packaged_input_sha256": "6a90c01cf6dd45f052d64240d35f0db1d930814f62aa4f2bfa56af95aa5d0d38",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_nmda",
+    "case": 7,
+    "original_path": "data/provenance/original_inputs/msn_nmda/case_007.npz",
+    "original_sha256": "ad0a546324a78d426e10d7529aa8ec27b12cd91d32a36966d2a80de6687e8f96",
+    "packaged_input_sha256": "1fd481aab32e0cd0618125ec7d20f1b4e683e400ef3bb8ef7471b745a7c64060",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_nmda",
+    "case": 8,
+    "original_path": "data/provenance/original_inputs/msn_nmda/case_008.npz",
+    "original_sha256": "bda41b0bdc0665dda8922a6a9d2f984f4c7213a0d1d328895166a8c09999fd92",
+    "packaged_input_sha256": "bc96993429449256ab5f7b87b161c8d5cf44ab79131a3784bf2015ab09182140",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_nmda",
+    "case": 9,
+    "original_path": "data/provenance/original_inputs/msn_nmda/case_009.npz",
+    "original_sha256": "ccd8611db9d633374b175c373d71396d0720e08043f58196482690c4ef616d5a",
+    "packaged_input_sha256": "54c447e568a81eb16ee9b0dd82a74f0a7cf9cab77818018b93bdbea21687cbf9",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_nmda",
+    "case": 10,
+    "original_path": "data/provenance/original_inputs/msn_nmda/case_010.npz",
+    "original_sha256": "e6eb2fbb288c24b4cd43739e22ee7cf1e12f65edd27d56a58a600df6eeca6d9b",
+    "packaged_input_sha256": "ed527d0d0427333875536c02c4768a766f6445a548d56fe05c4c6f6699a0a84b",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_nmda",
+    "case": 11,
+    "original_path": "data/provenance/original_inputs/msn_nmda/case_011.npz",
+    "original_sha256": "d408d4f044288cfcfc8dd8049265ce0bd4a755a71e79648041f17e9451d395b0",
+    "packaged_input_sha256": "77001d7f51f7773a6e345268ae20f59ad8cf917c9c858faa0a16e1524d7243d4",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_nmda",
+    "case": 12,
+    "original_path": "data/provenance/original_inputs/msn_nmda/case_012.npz",
+    "original_sha256": "3b6a6bc17d9dd38570a5b57d1f0182d9eb1e64862598881f6b1606e4a4663b06",
+    "packaged_input_sha256": "64e9c3bf102315f663a7e6344db3635b0db03d67fcb2a98f789690d2dcb6429a",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_nmda",
+    "case": 13,
+    "original_path": "data/provenance/original_inputs/msn_nmda/case_013.npz",
+    "original_sha256": "a631f4a8498023068f1e70939604dd78b51908b2fc294bfc258c96bbff7b0fb1",
+    "packaged_input_sha256": "13ec8b77dd8d75ec24d6b3c37afd2c0f81fd044eb0976f560c34d3450602da47",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_nmda",
+    "case": 14,
+    "original_path": "data/provenance/original_inputs/msn_nmda/case_014.npz",
+    "original_sha256": "8c146a195b9d604828288379a809eaa2ac25d1c286a0bb4b1f585c5109daaa9c",
+    "packaged_input_sha256": "c7586094a558ccf60ab2f4ab1102c7b1a39dc8334bbd165fd2315760b4d411de",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_nmda",
+    "case": 15,
+    "original_path": "data/provenance/original_inputs/msn_nmda/case_015.npz",
+    "original_sha256": "218b00b1555d147a81b8dff0f127d0a2d22281f0ba6e4977e59d24a80b8f0ee5",
+    "packaged_input_sha256": "71f313c2d9042ed544bff64a905a517c6e8e3b59bd221b8e0e14e9c781c6433c",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_nmda",
+    "case": 16,
+    "original_path": "data/provenance/original_inputs/msn_nmda/case_016.npz",
+    "original_sha256": "f89524160f5d3de5d1e07c5968985f10495522c152405d561eea6cd404b66d3a",
+    "packaged_input_sha256": "38a0e839f7fdf29dc9c63196d5039eff68d749085f19be7bf4a764a47a70d61f",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_nmda",
+    "case": 17,
+    "original_path": "data/provenance/original_inputs/msn_nmda/case_017.npz",
+    "original_sha256": "3bdd23a8c84ee628af80a083c78c6731e686f3451191479085f91e57bd7ba069",
+    "packaged_input_sha256": "c89a202c24da1188ce381fa2b905cdc7f9b24565fbe975573f2d96d3a4169e23",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_nmda",
+    "case": 18,
+    "original_path": "data/provenance/original_inputs/msn_nmda/case_018.npz",
+    "original_sha256": "def01787ac9213f23474a103c72781fa7d274534ae235c38d6ee7c4501c3048a",
+    "packaged_input_sha256": "ea5c44a660584710710b4b37324e3a486d5eeec53aaea8bfd0e0aece01a5ec48",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_nmda",
+    "case": 19,
+    "original_path": "data/provenance/original_inputs/msn_nmda/case_019.npz",
+    "original_sha256": "29aae4fec1d36b7a9f311032ff9feb68bdd4b2f02d9e3d0319918a40cfa05dd9",
+    "packaged_input_sha256": "1ac63aa10b60d6ba820f1144d7dc451bb04e756adc200c29fe79b746bb91d983",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_bhigh",
+    "case": 0,
+    "original_path": "data/provenance/original_inputs/msn_bhigh/case_000.npz",
+    "original_sha256": "4ee6c33e833409a3adcf0542f0d268657e6a9bc93be1cdb6db35f690a3dee28c",
+    "packaged_input_sha256": "1a861efe8e46aecb824325ab836b33cb61f2461982ff9fc7a10858f471cf66e6",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_bhigh",
+    "case": 1,
+    "original_path": "data/provenance/original_inputs/msn_bhigh/case_001.npz",
+    "original_sha256": "764da542e9fec7f8ffbf754ade34243251c69dcf925691b47756eb3aac0244ba",
+    "packaged_input_sha256": "93bafa51118f815deb4b37e955d771bb003eef484403e6ca53a091ba4a3d5b8a",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_bhigh",
+    "case": 2,
+    "original_path": "data/provenance/original_inputs/msn_bhigh/case_002.npz",
+    "original_sha256": "c611a21991173d3636764e5ea6140ca4e974ff8ed13c1597a164661c2330e6e0",
+    "packaged_input_sha256": "4ffc01722edbe5ed1076360abee2bde672a32d4d0029061cf06b2786cdc8f3cb",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_bhigh",
+    "case": 3,
+    "original_path": "data/provenance/original_inputs/msn_bhigh/case_003.npz",
+    "original_sha256": "9f4fa2eda7218815042a3648ec430b09b7756d3d0fb34fb603abf0cfae8b5610",
+    "packaged_input_sha256": "25b0c64bcd853d03a70d459745da57a9b08e1ace7466f2d02e410609f14d1acc",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_bhigh",
+    "case": 4,
+    "original_path": "data/provenance/original_inputs/msn_bhigh/case_004.npz",
+    "original_sha256": "a7f0cdb36bae2a5341345e3dd1ce85cc90a3a9dc21e722edbfac5dcd8e8be17e",
+    "packaged_input_sha256": "afc71f306738cd961f52780c23a48acf241a5e43be83255820f72ae8ca4d9afc",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_bhigh",
+    "case": 5,
+    "original_path": "data/provenance/original_inputs/msn_bhigh/case_005.npz",
+    "original_sha256": "5de14b2458a4e4dc060b6a5c6e7eac7dbe725496199982be7f73e07f725ff0fc",
+    "packaged_input_sha256": "f5edc8565f627db9f1cff2ae03a343dd6c48579200266d35ebb89b7e470d73a9",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_bhigh",
+    "case": 6,
+    "original_path": "data/provenance/original_inputs/msn_bhigh/case_006.npz",
+    "original_sha256": "b53d67ad654ea35e515e844a7735e53ceb01071349bd40086f91bb9ba4a26804",
+    "packaged_input_sha256": "49b1f8c0701f1649662874785284b419f667e140f8695d8863d4601290d7f0ca",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_bhigh",
+    "case": 7,
+    "original_path": "data/provenance/original_inputs/msn_bhigh/case_007.npz",
+    "original_sha256": "7b55e2ed24800a048eee42812baab0236acd859f7973995114fed02d1e7f98a9",
+    "packaged_input_sha256": "f42777c48eb3ff2c91f69a87e5763ffb6f0da992c9f993032e501a6eec2d06a6",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_bhigh",
+    "case": 9,
+    "original_path": "data/provenance/original_inputs/msn_bhigh/case_009.npz",
+    "original_sha256": "f92d13956ff2f87f76999d5120783f2313333bbc63aac97b4a542c25797dd23d",
+    "packaged_input_sha256": "3f8e93d1574f63f0412c92038396e57cb348bb63915d6e13dc429973524048d5",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_bhigh",
+    "case": 10,
+    "original_path": "data/provenance/original_inputs/msn_bhigh/case_010.npz",
+    "original_sha256": "95504b5f39d03236aef8efe2e759c412d2c31de84ccbca819d87e9bc5ea28372",
+    "packaged_input_sha256": "d0c97b96cbec099613e15607394d7502935d2d4971967713a4a206de998d11cf",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_bhigh",
+    "case": 11,
+    "original_path": "data/provenance/original_inputs/msn_bhigh/case_011.npz",
+    "original_sha256": "1ac4924cca807e64836ce08eee8ae6a7174981f66a09a6eb57900eed9a00caf5",
+    "packaged_input_sha256": "8fa2c03a1ddd7c16c2855ea30ec99de21228f7ed95e0bd946226fae8fe149a4d",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_bhigh",
+    "case": 12,
+    "original_path": "data/provenance/original_inputs/msn_bhigh/case_012.npz",
+    "original_sha256": "d5371bc1d2209d0aa0d5c6fb1e5ab7f63257bd73588a2fb92a2b6202c04f6b03",
+    "packaged_input_sha256": "84bdca733f66c7e48a9f5715905327e1f8c0406ff10fbf6ade5d140d9c4768dc",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_bhigh",
+    "case": 13,
+    "original_path": "data/provenance/original_inputs/msn_bhigh/case_013.npz",
+    "original_sha256": "5b48aa573147b97b2be5fbbf84463df38cf2338f9e63a2f90dbce47773edc897",
+    "packaged_input_sha256": "6be766a183d9572d5b7abf1672c1b7ae746707a0b580b886df6bea7907daec8c",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_bhigh",
+    "case": 14,
+    "original_path": "data/provenance/original_inputs/msn_bhigh/case_014.npz",
+    "original_sha256": "29d59101345d1b9817b5c4885488bd0ecc0c6491e68c228c49390b395327ef28",
+    "packaged_input_sha256": "080bca3be26891ac1bc831538dcba5b1d5062dc5e425bd9b938911436cd39701",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_bhigh",
+    "case": 15,
+    "original_path": "data/provenance/original_inputs/msn_bhigh/case_015.npz",
+    "original_sha256": "6b55a174473b2a723e85fd5820459ea6ade77c23baff7f57267513f8937e5e1a",
+    "packaged_input_sha256": "4009663ce58de252806bbf86fe884b9689f6e0ffefdb767595e79802c51ab268",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_bhigh",
+    "case": 16,
+    "original_path": "data/provenance/original_inputs/msn_bhigh/case_016.npz",
+    "original_sha256": "db9862394c74a8aab7431570f09b061a0a6cdd6e8a99de533a83ddd83a269064",
+    "packaged_input_sha256": "aa37cac7ab82851d788c9a102cd5b798c88210085b6f161cb1bcb1840febcc4e",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_bhigh",
+    "case": 17,
+    "original_path": "data/provenance/original_inputs/msn_bhigh/case_017.npz",
+    "original_sha256": "d53a1e9d268791f1aee3fdf56ae2d95d9affb061559ebd44bfe81248fc43eb08",
+    "packaged_input_sha256": "4977efe789941d0df1f822d11e66526073cc848ca85acd896b9f1b3829c352f2",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_bhigh",
+    "case": 18,
+    "original_path": "data/provenance/original_inputs/msn_bhigh/case_018.npz",
+    "original_sha256": "14f149af33b6a56b79fabc6ce1efcae2a73ede6e2796e847a9bdfa8d60e1040f",
+    "packaged_input_sha256": "68ece22fe453bd4a6858ccd9e92b70f4d0c271b1c27d9505180cee0370697efc",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  },
+  {
+    "group": "msn_bhigh",
+    "case": 19,
+    "original_path": "data/provenance/original_inputs/msn_bhigh/case_019.npz",
+    "original_sha256": "6e2f3a22ce7eb97d771563484c5af1d647d80b9499903cc6a2e180d96c57d38f",
+    "packaged_input_sha256": "5df5df75c7468625ad954e55d7acbce1003183d2233771725e4e0681c57720a9",
+    "identical_simulation_arrays": [
+      "loc",
+      "event_offsets",
+      "event_times",
+      "counts",
+      "n_sync",
+      "tstop"
+    ],
+    "reason": "Input archive repacked during fixed-cohort expansion; historical result identity is retained"
+  }
+]

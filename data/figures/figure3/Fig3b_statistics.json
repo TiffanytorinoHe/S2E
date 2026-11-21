@@ -1,0 +1,64 @@
+{
+  "metric": "Timing Gini, 30 consecutive 10-ms bins over 100–400 ms",
+  "experimental_unit": "One completed, baseline-spiking L5 PC simulated input realization",
+  "test": "Two-sided Mann–Whitney U; asymptotic, tie-corrected, continuity correction",
+  "multiplicity": "Holm step-down adjustment across the three requested contrasts to Sync",
+  "pairing": "Condition cohorts are compared as independent input realizations; case-number equality is not used as a pairing rule.",
+  "thresholds": {
+    "*": 0.05,
+    "**": 0.01,
+    "***": 0.001,
+    "****": 0.0001
+  },
+  "scipy_version": "1.13.1",
+  "comparisons": [
+    {
+      "condition": "ampa",
+      "reference": "sync",
+      "n_condition": 50,
+      "n_sync": 50,
+      "median_condition": 0.6951490514905148,
+      "median_sync": 0.8404430379746834,
+      "U_condition_vs_sync": 473.0,
+      "p_raw": 8.6445008374732e-08,
+      "cliffs_delta_sync_minus_condition": 0.6215999999999999,
+      "pooled_tied_value_groups": 2,
+      "p_holm": 8.6445008374732e-08,
+      "stars": "****"
+    },
+    {
+      "condition": "nmda",
+      "reference": "sync",
+      "n_condition": 50,
+      "n_sync": 50,
+      "median_condition": 0.6451023391812865,
+      "median_sync": 0.8404430379746834,
+      "U_condition_vs_sync": 224.0,
+      "p_raw": 1.5527221520927592e-12,
+      "cliffs_delta_sync_minus_condition": 0.8208,
+      "pooled_tied_value_groups": 1,
+      "p_holm": 3.1054443041855184e-12,
+      "stars": "****"
+    },
+    {
+      "condition": "bhigh",
+      "reference": "sync",
+      "n_condition": 50,
+      "n_sync": 50,
+      "median_condition": 0.4394424242424242,
+      "median_sync": 0.8404430379746834,
+      "U_condition_vs_sync": 169.0,
+      "p_raw": 9.414895039997632e-14,
+      "cliffs_delta_sync_minus_condition": 0.8648,
+      "pooled_tied_value_groups": 1,
+      "p_holm": 2.8244685119992895e-13,
+      "stars": "****"
+    }
+  ],
+  "source_sha256": "a7b3c19fdd52057099ddcddc98ef6c08d0ca1cfa5b90affcbab1d06505e92439",
+  "references": [
+    "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.mannwhitneyu.html",
+    "https://www.statsmodels.org/stable/_modules/statsmodels/stats/multitest.html",
+    "https://onlinelibrary.wiley.com/page/journal/10974547/homepage/forauthors.html"
+  ]
+}

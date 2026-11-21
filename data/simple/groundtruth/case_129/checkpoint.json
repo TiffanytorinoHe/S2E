@@ -1,0 +1,89 @@
+{
+  "case_id": 129,
+  "fingerprint": "f2c505cf34699f62b2ef0cba73eea0c8d4c6dddad0737c13ea2221ede0ab4414",
+  "specification": {
+    "case_id": 129,
+    "input_sha256": {
+      "exc_locations.npy": "596ee36c0524ca1c7010e7a867b4a3d2adb564513a9e2e3f3ca220fbd3d44a24",
+      "exc_times_ms.npy": "b24179868675badabf2b6a59d0f58058d62ecf361ecadc7f0405fe2e37cf9df7"
+    },
+    "model": "all_hh_direct_hh_dt0.025_t100_vinit-65_exc6_w0.001_ratio1",
+    "candidate_grid": "segments0..3 x times20,30,40,50,60; increment0.001",
+    "enumeration_order": "increasing-k then itertools.combinations_with_replacement(range(20),k)",
+    "model_source_sha256": "f20977067b73ac79d42a866c1b09e71b24233c88e650f87a91b6152bb704e01c",
+    "enumeration_source_sha256": "7b7298d9eb0598fec3242002ba39be8bf0ccd865b00dd1470db466692f63255a"
+  },
+  "next_ordinal": 262144,
+  "upper_bound": 8,
+  "upper_ans": [
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    5,
+    1
+  ],
+  "algorithm_source_sha256": "9a61e98f679a0263d5e17e5adfece2878e6ff2518a3e52c96cef6ae763e0d59f",
+  "reference_baseline_peak_mV": 43.99634504694466,
+  "reference_final_peak_mV": -61.97689264375999,
+  "batches": [
+    {
+      "file": "batch_000000000000_000000131072.npz",
+      "sha256": "f3e2eb78839d2e1751f2dd57e290976b4ddbeca63233c0e60fa5045f61ff61a6",
+      "start": 0,
+      "stop": 131072,
+      "valid": 131072,
+      "padded": 0,
+      "cpu_boundary_checks": 0,
+      "seconds": 9.059651153162122,
+      "timing": {
+        "weight_update_s": 0.12287471443414688,
+        "gpu_simulation_and_download_s": 8.099394837394357,
+        "total_s": 8.533879771828651
+      }
+    },
+    {
+      "file": "batch_000000131072_000000262144.npz",
+      "sha256": "00e87aa425a91eb4355753a714f4ce484bb815006549f25ccdf869d23d784801",
+      "start": 131072,
+      "stop": 262144,
+      "valid": 131072,
+      "padded": 0,
+      "cpu_boundary_checks": 0,
+      "seconds": 8.956112803891301,
+      "timing": {
+        "weight_update_s": 0.12324578501284122,
+        "gpu_simulation_and_download_s": 8.094255574047565,
+        "total_s": 8.527924792841077
+      }
+    }
+  ],
+  "created_at": 1790161529.9437497,
+  "job_id": "142037",
+  "last_calibration": {
+    "build_s": 47.26924989745021,
+    "gpu_peaks": [
+      43.99634552001953,
+      -61.97689437866211
+    ],
+    "at": 1790161586.8354738,
+    "batch_size": 131072
+  },
+  "updated_at": 1790161604.861818,
+  "pending_witness": {
+    "length": 7,
+    "ans": [
+      0,
+      0,
+      0,
+      1,
+      10,
+      10,
+      10
+    ],
+    "peak": -58.6337890625,
+    "ordinal": 232879
+  }
+}

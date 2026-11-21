@@ -1,0 +1,40 @@
+{
+  "dt_ms": 0.025,
+  "celsius": 6.3,
+  "initial_voltage_mV": -80.0,
+  "secondorder": 0,
+  "n_segments": 642,
+  "steps": 16001,
+  "duration_ms": 400.02500000000003,
+  "model": "l5pc",
+  "regime": "nmda",
+  "case": 37,
+  "new_msn_config": false,
+  "counts": [
+    600,
+    600,
+    150
+  ],
+  "hh_tables": {
+    "usetable_hh": 0.0,
+    "usetable_hh_grad": 0.0
+  },
+  "mechanism_tables": {
+    "Ca_LVAst": 0,
+    "Ca_HVA": 0,
+    "Nap_Et2": 0,
+    "NaTa_t": 0,
+    "K_Pst": 0,
+    "K_Tst": 0,
+    "Ih": 0,
+    "Im": 0,
+    "SKv3_1": 0,
+    "SK_E2": 0
+  },
+  "thresholds": {
+    "max_abs_voltage_mV": 0.001,
+    "rmse_all_segments_mV": 0.0001,
+    "spike_grid_match": true
+  },
+  "definition": "V, all active gates, Ca pools and synaptic states evolve solely from their own preceding values; NEURON used only for initial state/parameters and reference error measurement."
+}

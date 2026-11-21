@@ -1,0 +1,38 @@
+[
+  {
+    "group": "l5pc_ampa",
+    "n": 50,
+    "input_hashes_verified": true,
+    "pulse_result_hashes_verified": true,
+    "baseline_error_max_mV": 0.0,
+    "all_final_max_below_zero": true,
+    "geometry_and_region_indices_verified": true
+  },
+  {
+    "group": "l5pc_nmda",
+    "n": 50,
+    "input_hashes_verified": true,
+    "pulse_result_hashes_verified": true,
+    "baseline_error_max_mV": 0.0,
+    "all_final_max_below_zero": true,
+    "geometry_and_region_indices_verified": true
+  },
+  {
+    "group": "l5pc_bhigh",
+    "n": 50,
+    "input_hashes_verified": true,
+    "pulse_result_hashes_verified": true,
+    "baseline_error_max_mV": 0.0,
+    "all_final_max_below_zero": true,
+    "geometry_and_region_indices_verified": true
+  },
+  {
+    "group": "l5pc_sync",
+    "n": 50,
+    "input_hashes_verified": true,
+    "pulse_result_hashes_verified": true,
+    "baseline_error_max_mV": 0.0,
+    "all_final_max_below_zero": true,
+    "geometry_and_region_indices_verified": true
+  }
+]

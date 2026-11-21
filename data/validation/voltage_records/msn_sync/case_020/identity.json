@@ -1,0 +1,15 @@
+{
+  "group": "msn_sync",
+  "case": 20,
+  "input_sha256": "41a5c02f82c9616b96b31a54168919e42eb7013af11eb17563524330a549ee71",
+  "source_release_sha256": "8e68125585c7b941154c97f71c3fb4d1dbec80455fea2d357010855a5001b78a",
+  "experiment_manifest_sha256": "c8150bfbfc776b4636ee1a0bb480763b65705ae09587333745a7df70bfdf67f6",
+  "validation_code": {
+    "ca1_rates.py": "2663ec64bc64d9679a1c4827045f99969cb373d279279c3cddf6c0b3c6174d74",
+    "synapse_events.py": "ee54b840b32226fcddc6696eac6ad2d437a29ab6ec866b5f916dc7875b0c8619",
+    "l5_rates.py": "88411d150ec16368e62feb7f028901c7a9eeedb198f24a5eb9ac4d14096e29df",
+    "msn_rates.py": "2bd602ce8b0f1c95f5b2dc89b10daa846c616bf4b245f545ef7b6742653aa745",
+    "run_case.py": "3bf5f32e48901752b566e63ec3af1a073d7742ef88f4dcb5c959e842b080548c",
+    "engine.py": "ad193dd1044131bc6cd802a72eb9088b98a45d958de2eb9009089313277eb7f3"
+  }
+}

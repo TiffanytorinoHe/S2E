@@ -1,0 +1,74 @@
+{
+  "case_id": 236,
+  "fingerprint": "0687fcbd020ef985382effb5150f0580fc2ba4345799f30c609ed66a8397233b",
+  "specification": {
+    "case_id": 236,
+    "input_sha256": {
+      "exc_locations.npy": "596ee36c0524ca1c7010e7a867b4a3d2adb564513a9e2e3f3ca220fbd3d44a24",
+      "exc_times_ms.npy": "b24179868675badabf2b6a59d0f58058d62ecf361ecadc7f0405fe2e37cf9df7"
+    },
+    "model": "all_hh_direct_hh_dt0.025_t100_vinit-65_exc6_w0.001_ratio1",
+    "candidate_grid": "segments0..3 x times20,30,40,50,60; increment0.001",
+    "enumeration_order": "increasing-k then itertools.combinations_with_replacement(range(20),k)",
+    "model_source_sha256": "f20977067b73ac79d42a866c1b09e71b24233c88e650f87a91b6152bb704e01c",
+    "enumeration_source_sha256": "7b7298d9eb0598fec3242002ba39be8bf0ccd865b00dd1470db466692f63255a"
+  },
+  "next_ordinal": 230229,
+  "upper_bound": 7,
+  "upper_ans": [
+    15,
+    15,
+    15,
+    10,
+    10,
+    10,
+    5
+  ],
+  "algorithm_source_sha256": "5083f2018b6bff4d7433d69f7b1e2e2f2f0b87978d68eeba5443e150c2936efa",
+  "reference_baseline_peak_mV": 44.77232699628529,
+  "reference_final_peak_mV": -59.78883635826809,
+  "batches": [
+    {
+      "file": "batch_000000000000_000000131072.npz",
+      "sha256": "7424490da3b00af5429b5beff1fbbd1149a25f54ce94562b53e6d7255f2c5db8",
+      "start": 0,
+      "stop": 131072,
+      "valid": 131072,
+      "padded": 0,
+      "cpu_boundary_checks": 0,
+      "seconds": 9.149057788774371,
+      "timing": {
+        "weight_update_s": 0.19266648404300213,
+        "gpu_simulation_and_download_s": 8.095971394330263,
+        "total_s": 8.598300941288471
+      }
+    },
+    {
+      "file": "batch_000000131072_000000230229.npz",
+      "sha256": "7e70c90df918ad12dd076a573354b3c4d789469c1a23261afc3e4adf4d98b8c0",
+      "start": 131072,
+      "stop": 230229,
+      "valid": 99157,
+      "padded": 31915,
+      "cpu_boundary_checks": 0,
+      "seconds": 8.984259540215135,
+      "timing": {
+        "weight_update_s": 0.12505220994353294,
+        "gpu_simulation_and_download_s": 8.098998280242085,
+        "total_s": 8.533753829076886
+      }
+    }
+  ],
+  "created_at": 1790161190.7617638,
+  "job_id": "142037",
+  "last_calibration": {
+    "build_s": 45.26356961019337,
+    "gpu_peaks": [
+      44.7723274230957,
+      -59.78883743286133
+    ],
+    "at": 1790161245.559704,
+    "batch_size": 131072
+  },
+  "updated_at": 1790161263.7193263
+}

@@ -1,0 +1,2096 @@
+{
+  "status": "passed",
+  "cases": [
+    {
+      "case_id": 0,
+      "minimum_length": 5,
+      "cpu_peak_mV": -61.4266062924874,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 11
+    },
+    {
+      "case_id": 1,
+      "minimum_length": 1,
+      "cpu_peak_mV": -62.013735278057126,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 2,
+      "minimum_length": 1,
+      "cpu_peak_mV": -61.42047490201475,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 3,
+      "minimum_length": 3,
+      "cpu_peak_mV": -61.96505770213147,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 4,
+      "minimum_length": 2,
+      "cpu_peak_mV": -61.83056207645306,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 5,
+      "minimum_length": 9,
+      "cpu_peak_mV": -60.181029022938965,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 24
+    },
+    {
+      "case_id": 6,
+      "minimum_length": 14,
+      "cpu_peak_mV": -61.05640965989269,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 4373
+    },
+    {
+      "case_id": 7,
+      "minimum_length": 4,
+      "cpu_peak_mV": -60.508185164394895,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 8,
+      "minimum_length": 1,
+      "cpu_peak_mV": -62.946935532593784,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 9,
+      "minimum_length": 0,
+      "cpu_peak_mV": -61.93108910768024,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 10,
+      "minimum_length": 1,
+      "cpu_peak_mV": -59.51133796889432,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 11,
+      "minimum_length": 10,
+      "cpu_peak_mV": -59.36569702732897,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 77
+    },
+    {
+      "case_id": 12,
+      "minimum_length": 0,
+      "cpu_peak_mV": -63.69255198319296,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 13,
+      "minimum_length": 2,
+      "cpu_peak_mV": -62.120051595062804,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 14,
+      "minimum_length": 0,
+      "cpu_peak_mV": -64.01623101556602,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 15,
+      "minimum_length": 6,
+      "cpu_peak_mV": -61.794481238214594,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 16,
+      "minimum_length": 0,
+      "cpu_peak_mV": -61.29355831812973,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 17,
+      "minimum_length": 6,
+      "cpu_peak_mV": -60.9097456280699,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 18,
+      "minimum_length": 2,
+      "cpu_peak_mV": -62.7295712403669,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 19,
+      "minimum_length": 5,
+      "cpu_peak_mV": -61.434389979760105,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 20,
+      "minimum_length": 6,
+      "cpu_peak_mV": -57.32688720144212,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 21,
+      "minimum_length": 1,
+      "cpu_peak_mV": -61.70153623310942,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 22,
+      "minimum_length": 4,
+      "cpu_peak_mV": -62.238816083507515,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 23,
+      "minimum_length": 0,
+      "cpu_peak_mV": -61.70326206790768,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 24,
+      "minimum_length": 2,
+      "cpu_peak_mV": -60.34199691910746,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 25,
+      "minimum_length": 4,
+      "cpu_peak_mV": -61.8901315675079,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 26,
+      "minimum_length": 5,
+      "cpu_peak_mV": -58.57402204031306,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 10
+    },
+    {
+      "case_id": 27,
+      "minimum_length": 1,
+      "cpu_peak_mV": -62.64820340838854,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 28,
+      "minimum_length": 13,
+      "cpu_peak_mV": -60.121983625512634,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1723
+    },
+    {
+      "case_id": 29,
+      "minimum_length": 7,
+      "cpu_peak_mV": -61.09653982909791,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 2
+    },
+    {
+      "case_id": 30,
+      "minimum_length": 3,
+      "cpu_peak_mV": -61.79706454104715,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 31,
+      "minimum_length": 3,
+      "cpu_peak_mV": -61.762528770854736,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 32,
+      "minimum_length": 1,
+      "cpu_peak_mV": -59.430824673508965,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 33,
+      "minimum_length": 2,
+      "cpu_peak_mV": -60.34420162850048,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 34,
+      "minimum_length": 1,
+      "cpu_peak_mV": -62.7586550782421,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 35,
+      "minimum_length": 3,
+      "cpu_peak_mV": -61.57764009756076,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 36,
+      "minimum_length": 1,
+      "cpu_peak_mV": -63.95445681923061,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 37,
+      "minimum_length": 1,
+      "cpu_peak_mV": -62.94171610837787,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 38,
+      "minimum_length": 1,
+      "cpu_peak_mV": -60.21120137580861,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 39,
+      "minimum_length": 1,
+      "cpu_peak_mV": -62.62067855864906,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 40,
+      "minimum_length": 5,
+      "cpu_peak_mV": -62.545050384063764,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 41,
+      "minimum_length": 2,
+      "cpu_peak_mV": -58.784582563213014,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 42,
+      "minimum_length": 5,
+      "cpu_peak_mV": -60.76003756687172,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 43,
+      "minimum_length": 3,
+      "cpu_peak_mV": -61.42733651218002,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 44,
+      "minimum_length": 1,
+      "cpu_peak_mV": -61.53479176754088,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 45,
+      "minimum_length": 3,
+      "cpu_peak_mV": -61.76160061497865,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 46,
+      "minimum_length": 3,
+      "cpu_peak_mV": -57.5907467248359,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 47,
+      "minimum_length": 3,
+      "cpu_peak_mV": -57.69051943973947,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 48,
+      "minimum_length": 4,
+      "cpu_peak_mV": -63.21380854642773,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 49,
+      "minimum_length": 3,
+      "cpu_peak_mV": -61.862435468913404,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 50,
+      "minimum_length": 1,
+      "cpu_peak_mV": -61.477956748206495,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 51,
+      "minimum_length": 5,
+      "cpu_peak_mV": -57.551493966248685,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 52,
+      "minimum_length": 1,
+      "cpu_peak_mV": -62.72419202447328,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 53,
+      "minimum_length": 2,
+      "cpu_peak_mV": -61.52295242088378,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 54,
+      "minimum_length": 1,
+      "cpu_peak_mV": -60.86127654635408,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 55,
+      "minimum_length": 0,
+      "cpu_peak_mV": -64.07683950648747,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 56,
+      "minimum_length": 3,
+      "cpu_peak_mV": -62.39675588772662,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 57,
+      "minimum_length": 7,
+      "cpu_peak_mV": -61.08017408730665,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 2
+    },
+    {
+      "case_id": 58,
+      "minimum_length": 6,
+      "cpu_peak_mV": -60.26307385857829,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 59,
+      "minimum_length": 1,
+      "cpu_peak_mV": -61.43660206683239,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 60,
+      "minimum_length": 4,
+      "cpu_peak_mV": -58.30312214791699,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 61,
+      "minimum_length": 0,
+      "cpu_peak_mV": -62.578240847495714,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 62,
+      "minimum_length": 3,
+      "cpu_peak_mV": -61.54799001882658,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 63,
+      "minimum_length": 0,
+      "cpu_peak_mV": -63.30401424808806,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 64,
+      "minimum_length": 1,
+      "cpu_peak_mV": -62.497714979053,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 65,
+      "minimum_length": 5,
+      "cpu_peak_mV": -59.859016555463214,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 66,
+      "minimum_length": 2,
+      "cpu_peak_mV": -60.56982701555439,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 67,
+      "minimum_length": 4,
+      "cpu_peak_mV": -62.02708218692071,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 68,
+      "minimum_length": 3,
+      "cpu_peak_mV": -59.695601097275635,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 69,
+      "minimum_length": 5,
+      "cpu_peak_mV": -58.16137424452014,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 70,
+      "minimum_length": 0,
+      "cpu_peak_mV": -63.027898737839706,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 71,
+      "minimum_length": 1,
+      "cpu_peak_mV": -60.66084383725565,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 72,
+      "minimum_length": 1,
+      "cpu_peak_mV": -60.81941286376841,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 73,
+      "minimum_length": 4,
+      "cpu_peak_mV": -61.48134185189631,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 74,
+      "minimum_length": 10,
+      "cpu_peak_mV": -59.99130448328587,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 77
+    },
+    {
+      "case_id": 75,
+      "minimum_length": 3,
+      "cpu_peak_mV": -63.032389824491915,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 76,
+      "minimum_length": 1,
+      "cpu_peak_mV": -62.927588139448915,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 77,
+      "minimum_length": 0,
+      "cpu_peak_mV": -59.78265750087284,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 78,
+      "minimum_length": 1,
+      "cpu_peak_mV": -58.78456154356762,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 79,
+      "minimum_length": 2,
+      "cpu_peak_mV": -62.57368806596869,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 80,
+      "minimum_length": 1,
+      "cpu_peak_mV": -63.09899180605316,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 81,
+      "minimum_length": 9,
+      "cpu_peak_mV": -57.734687767020844,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 24
+    },
+    {
+      "case_id": 82,
+      "minimum_length": 8,
+      "cpu_peak_mV": -60.71155435720252,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 7
+    },
+    {
+      "case_id": 83,
+      "minimum_length": 4,
+      "cpu_peak_mV": -59.093264719398455,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 84,
+      "minimum_length": 4,
+      "cpu_peak_mV": -61.85840417480486,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 85,
+      "minimum_length": 6,
+      "cpu_peak_mV": -60.43880919984579,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 86,
+      "minimum_length": 4,
+      "cpu_peak_mV": -58.4563232624745,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 87,
+      "minimum_length": 4,
+      "cpu_peak_mV": -60.93843665343028,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 88,
+      "minimum_length": 8,
+      "cpu_peak_mV": -58.13125633027863,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 7
+    },
+    {
+      "case_id": 89,
+      "minimum_length": 1,
+      "cpu_peak_mV": -61.69032120356707,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 90,
+      "minimum_length": 4,
+      "cpu_peak_mV": -59.81557030875734,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 91,
+      "minimum_length": 5,
+      "cpu_peak_mV": -60.50288796228558,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 92,
+      "minimum_length": 0,
+      "cpu_peak_mV": -61.74492481934306,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 93,
+      "minimum_length": 8,
+      "cpu_peak_mV": -60.05473858687659,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 12
+    },
+    {
+      "case_id": 94,
+      "minimum_length": 10,
+      "cpu_peak_mV": -61.37089754456338,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 77
+    },
+    {
+      "case_id": 95,
+      "minimum_length": 0,
+      "cpu_peak_mV": -63.2519400783204,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 96,
+      "minimum_length": 4,
+      "cpu_peak_mV": -61.487472740968684,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 97,
+      "minimum_length": 4,
+      "cpu_peak_mV": -60.04170460520002,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 98,
+      "minimum_length": 1,
+      "cpu_peak_mV": -61.02014709560958,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 99,
+      "minimum_length": 10,
+      "cpu_peak_mV": -57.557666410724295,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 170
+    },
+    {
+      "case_id": 100,
+      "minimum_length": 0,
+      "cpu_peak_mV": -60.46665038038806,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 101,
+      "minimum_length": 5,
+      "cpu_peak_mV": -61.05853894561227,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 102,
+      "minimum_length": 4,
+      "cpu_peak_mV": -60.93358729406355,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 103,
+      "minimum_length": 0,
+      "cpu_peak_mV": -64.0315483678962,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 104,
+      "minimum_length": 10,
+      "cpu_peak_mV": -61.11395185028874,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 77
+    },
+    {
+      "case_id": 105,
+      "minimum_length": 1,
+      "cpu_peak_mV": -62.07212179516995,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 106,
+      "minimum_length": 1,
+      "cpu_peak_mV": -62.60862566751175,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 107,
+      "minimum_length": 0,
+      "cpu_peak_mV": -62.816456144061235,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 108,
+      "minimum_length": 0,
+      "cpu_peak_mV": -60.17999065749421,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 109,
+      "minimum_length": 1,
+      "cpu_peak_mV": -63.713988850552845,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 110,
+      "minimum_length": 0,
+      "cpu_peak_mV": -63.60548670372012,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 111,
+      "minimum_length": 6,
+      "cpu_peak_mV": -61.699636958480056,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 112,
+      "minimum_length": 2,
+      "cpu_peak_mV": -60.759759749694645,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 113,
+      "minimum_length": 0,
+      "cpu_peak_mV": -65.0,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 114,
+      "minimum_length": 2,
+      "cpu_peak_mV": -61.39646936116026,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 115,
+      "minimum_length": 0,
+      "cpu_peak_mV": -64.68590537912448,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 116,
+      "minimum_length": 11,
+      "cpu_peak_mV": -61.227779917051166,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 230
+    },
+    {
+      "case_id": 117,
+      "minimum_length": 0,
+      "cpu_peak_mV": -60.66839291316434,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 118,
+      "minimum_length": 1,
+      "cpu_peak_mV": -63.174078690056874,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 119,
+      "minimum_length": 3,
+      "cpu_peak_mV": -60.68857789008976,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 120,
+      "minimum_length": 0,
+      "cpu_peak_mV": -64.9124137812927,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 121,
+      "minimum_length": 8,
+      "cpu_peak_mV": -59.29869999733057,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 7
+    },
+    {
+      "case_id": 122,
+      "minimum_length": 3,
+      "cpu_peak_mV": -62.18746639688913,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 123,
+      "minimum_length": 5,
+      "cpu_peak_mV": -59.905031108388464,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 124,
+      "minimum_length": 1,
+      "cpu_peak_mV": -62.33128615699794,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 125,
+      "minimum_length": 10,
+      "cpu_peak_mV": -60.48995120685628,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 77
+    },
+    {
+      "case_id": 126,
+      "minimum_length": 5,
+      "cpu_peak_mV": -60.65458559753841,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 127,
+      "minimum_length": 2,
+      "cpu_peak_mV": -61.87618066718485,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 128,
+      "minimum_length": 1,
+      "cpu_peak_mV": -60.581676510545584,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 129,
+      "minimum_length": 7,
+      "cpu_peak_mV": -58.63379003792725,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 2
+    },
+    {
+      "case_id": 130,
+      "minimum_length": 0,
+      "cpu_peak_mV": -63.941849148658626,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 131,
+      "minimum_length": 0,
+      "cpu_peak_mV": -63.50710312128023,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 132,
+      "minimum_length": 10,
+      "cpu_peak_mV": -61.214030979686484,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 77
+    },
+    {
+      "case_id": 133,
+      "minimum_length": 3,
+      "cpu_peak_mV": -62.423414839312144,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 134,
+      "minimum_length": 3,
+      "cpu_peak_mV": -60.67442933029698,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 135,
+      "minimum_length": 4,
+      "cpu_peak_mV": -61.88030322016526,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 136,
+      "minimum_length": 3,
+      "cpu_peak_mV": -62.95174866410327,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 137,
+      "minimum_length": 4,
+      "cpu_peak_mV": -60.96469213516525,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 139,
+      "minimum_length": 2,
+      "cpu_peak_mV": -62.05068490466953,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 140,
+      "minimum_length": 1,
+      "cpu_peak_mV": -62.80983964201394,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 141,
+      "minimum_length": 6,
+      "cpu_peak_mV": -58.01550591583338,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 142,
+      "minimum_length": 0,
+      "cpu_peak_mV": -62.573734952638844,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 143,
+      "minimum_length": 4,
+      "cpu_peak_mV": -61.17359842129169,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 144,
+      "minimum_length": 7,
+      "cpu_peak_mV": -61.62282879360879,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 2
+    },
+    {
+      "case_id": 145,
+      "minimum_length": 0,
+      "cpu_peak_mV": -62.33684190575313,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 146,
+      "minimum_length": 4,
+      "cpu_peak_mV": -58.9345036245967,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 147,
+      "minimum_length": 1,
+      "cpu_peak_mV": -63.67421647133488,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 148,
+      "minimum_length": 4,
+      "cpu_peak_mV": -61.28306981730395,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 149,
+      "minimum_length": 3,
+      "cpu_peak_mV": -60.72338500840119,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 150,
+      "minimum_length": 8,
+      "cpu_peak_mV": -61.584850378708715,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 7
+    },
+    {
+      "case_id": 151,
+      "minimum_length": 0,
+      "cpu_peak_mV": -63.078891262009776,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 152,
+      "minimum_length": 4,
+      "cpu_peak_mV": -60.8026658125464,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 153,
+      "minimum_length": 2,
+      "cpu_peak_mV": -63.415212134966836,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 154,
+      "minimum_length": 1,
+      "cpu_peak_mV": -59.32770660489543,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 155,
+      "minimum_length": 0,
+      "cpu_peak_mV": -62.87778708791818,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 156,
+      "minimum_length": 1,
+      "cpu_peak_mV": -60.781256059701924,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 157,
+      "minimum_length": 4,
+      "cpu_peak_mV": -60.48324700347647,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 158,
+      "minimum_length": 2,
+      "cpu_peak_mV": -60.85677701270048,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 159,
+      "minimum_length": 2,
+      "cpu_peak_mV": -62.40826328293435,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 160,
+      "minimum_length": 1,
+      "cpu_peak_mV": -62.17060267154291,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 161,
+      "minimum_length": 3,
+      "cpu_peak_mV": -62.82086984445966,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 162,
+      "minimum_length": 4,
+      "cpu_peak_mV": -58.81545173014104,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 163,
+      "minimum_length": 2,
+      "cpu_peak_mV": -63.12799670971412,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 165,
+      "minimum_length": 2,
+      "cpu_peak_mV": -62.47455130934331,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 166,
+      "minimum_length": 11,
+      "cpu_peak_mV": -57.247481387337785,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 485
+    },
+    {
+      "case_id": 167,
+      "minimum_length": 4,
+      "cpu_peak_mV": -60.06646206052858,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 168,
+      "minimum_length": 8,
+      "cpu_peak_mV": -62.25636463337846,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 7
+    },
+    {
+      "case_id": 169,
+      "minimum_length": 1,
+      "cpu_peak_mV": -60.62286311560738,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 170,
+      "minimum_length": 0,
+      "cpu_peak_mV": -63.41557863731859,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 171,
+      "minimum_length": 2,
+      "cpu_peak_mV": -62.48467897422124,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 172,
+      "minimum_length": 2,
+      "cpu_peak_mV": -60.75098994810221,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 173,
+      "minimum_length": 0,
+      "cpu_peak_mV": -63.25952474325136,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 174,
+      "minimum_length": 5,
+      "cpu_peak_mV": -60.26906893512145,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 175,
+      "minimum_length": 10,
+      "cpu_peak_mV": -60.57526483554583,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 77
+    },
+    {
+      "case_id": 176,
+      "minimum_length": 4,
+      "cpu_peak_mV": -62.01414815485883,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 177,
+      "minimum_length": 1,
+      "cpu_peak_mV": -62.26206766073633,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 178,
+      "minimum_length": 2,
+      "cpu_peak_mV": -62.618487658084966,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 179,
+      "minimum_length": 4,
+      "cpu_peak_mV": -59.941907036805375,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 180,
+      "minimum_length": 1,
+      "cpu_peak_mV": -60.13011029878213,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 181,
+      "minimum_length": 1,
+      "cpu_peak_mV": -62.785988115524724,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 182,
+      "minimum_length": 1,
+      "cpu_peak_mV": -62.9726331410115,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 183,
+      "minimum_length": 2,
+      "cpu_peak_mV": -62.249165096342786,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 184,
+      "minimum_length": 14,
+      "cpu_peak_mV": -60.90959461184554,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 4373
+    },
+    {
+      "case_id": 185,
+      "minimum_length": 0,
+      "cpu_peak_mV": -62.63156337435386,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 186,
+      "minimum_length": 0,
+      "cpu_peak_mV": -61.6743670971028,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 187,
+      "minimum_length": 9,
+      "cpu_peak_mV": -60.798125534806736,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 24
+    },
+    {
+      "case_id": 188,
+      "minimum_length": 0,
+      "cpu_peak_mV": -65.0,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 189,
+      "minimum_length": 0,
+      "cpu_peak_mV": -62.47782357766761,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 190,
+      "minimum_length": 1,
+      "cpu_peak_mV": -63.43717517778922,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 191,
+      "minimum_length": 4,
+      "cpu_peak_mV": -60.276616696735225,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 192,
+      "minimum_length": 5,
+      "cpu_peak_mV": -60.47472061851763,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 193,
+      "minimum_length": 0,
+      "cpu_peak_mV": -63.61479208134539,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 194,
+      "minimum_length": 0,
+      "cpu_peak_mV": -65.0,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 195,
+      "minimum_length": 1,
+      "cpu_peak_mV": -62.87228599949696,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 196,
+      "minimum_length": 2,
+      "cpu_peak_mV": -62.789230104647835,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 197,
+      "minimum_length": 3,
+      "cpu_peak_mV": -60.845202729024074,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 198,
+      "minimum_length": 12,
+      "cpu_peak_mV": -60.76049912835913,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 646
+    },
+    {
+      "case_id": 199,
+      "minimum_length": 0,
+      "cpu_peak_mV": -61.77227767708324,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 200,
+      "minimum_length": 3,
+      "cpu_peak_mV": -59.99948192694134,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 201,
+      "minimum_length": 2,
+      "cpu_peak_mV": -62.41449675802314,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 202,
+      "minimum_length": 3,
+      "cpu_peak_mV": -62.60559701047963,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 203,
+      "minimum_length": 5,
+      "cpu_peak_mV": -58.607074796263085,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 204,
+      "minimum_length": 0,
+      "cpu_peak_mV": -63.59875921979354,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 205,
+      "minimum_length": 0,
+      "cpu_peak_mV": -63.26282713423876,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 206,
+      "minimum_length": 6,
+      "cpu_peak_mV": -61.256734675631186,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 207,
+      "minimum_length": 2,
+      "cpu_peak_mV": -63.39201207068557,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 208,
+      "minimum_length": 2,
+      "cpu_peak_mV": -62.479855466759304,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 209,
+      "minimum_length": 5,
+      "cpu_peak_mV": -61.49940344136022,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 210,
+      "minimum_length": 2,
+      "cpu_peak_mV": -62.79711076822566,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 211,
+      "minimum_length": 2,
+      "cpu_peak_mV": -61.14649895127804,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 212,
+      "minimum_length": 5,
+      "cpu_peak_mV": -61.723929921840806,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 213,
+      "minimum_length": 12,
+      "cpu_peak_mV": -60.260811362452756,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 646
+    },
+    {
+      "case_id": 214,
+      "minimum_length": 2,
+      "cpu_peak_mV": -62.861946820803205,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 215,
+      "minimum_length": 0,
+      "cpu_peak_mV": -60.37905877689525,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 216,
+      "minimum_length": 0,
+      "cpu_peak_mV": -63.53299132039559,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 217,
+      "minimum_length": 6,
+      "cpu_peak_mV": -59.267097476599865,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 218,
+      "minimum_length": 3,
+      "cpu_peak_mV": -60.21884284511343,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 219,
+      "minimum_length": 1,
+      "cpu_peak_mV": -61.81010651512039,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 220,
+      "minimum_length": 4,
+      "cpu_peak_mV": -59.53450151172416,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 221,
+      "minimum_length": 2,
+      "cpu_peak_mV": -60.30379278020493,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 222,
+      "minimum_length": 3,
+      "cpu_peak_mV": -60.93016290438811,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 223,
+      "minimum_length": 9,
+      "cpu_peak_mV": -60.689625392531596,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 24
+    },
+    {
+      "case_id": 224,
+      "minimum_length": 1,
+      "cpu_peak_mV": -61.43935831191264,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 225,
+      "minimum_length": 2,
+      "cpu_peak_mV": -59.85815251130478,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 226,
+      "minimum_length": 9,
+      "cpu_peak_mV": -59.565683964074125,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 24
+    },
+    {
+      "case_id": 227,
+      "minimum_length": 1,
+      "cpu_peak_mV": -62.271291416564004,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 228,
+      "minimum_length": 4,
+      "cpu_peak_mV": -61.52667540676477,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 229,
+      "minimum_length": 3,
+      "cpu_peak_mV": -62.200149063197635,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 230,
+      "minimum_length": 2,
+      "cpu_peak_mV": -63.028125161065404,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 231,
+      "minimum_length": 0,
+      "cpu_peak_mV": -62.265765334811185,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 232,
+      "minimum_length": 0,
+      "cpu_peak_mV": -62.88891931026392,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 233,
+      "minimum_length": 5,
+      "cpu_peak_mV": -60.86670690303454,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 234,
+      "minimum_length": 0,
+      "cpu_peak_mV": -62.21053742663655,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 235,
+      "minimum_length": 2,
+      "cpu_peak_mV": -62.13159485645405,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 236,
+      "minimum_length": 7,
+      "cpu_peak_mV": -59.78883635826809,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 2
+    },
+    {
+      "case_id": 237,
+      "minimum_length": 0,
+      "cpu_peak_mV": -62.66412674879493,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 238,
+      "minimum_length": 0,
+      "cpu_peak_mV": -61.556805349815185,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 239,
+      "minimum_length": 2,
+      "cpu_peak_mV": -59.49281292180985,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 240,
+      "minimum_length": 7,
+      "cpu_peak_mV": -60.795128895090535,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 2
+    },
+    {
+      "case_id": 241,
+      "minimum_length": 5,
+      "cpu_peak_mV": -62.8855150446786,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 242,
+      "minimum_length": 0,
+      "cpu_peak_mV": -60.37046196957443,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 243,
+      "minimum_length": 5,
+      "cpu_peak_mV": -61.02309929612882,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 244,
+      "minimum_length": 3,
+      "cpu_peak_mV": -59.31235368331713,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 245,
+      "minimum_length": 0,
+      "cpu_peak_mV": -62.13783379337786,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 246,
+      "minimum_length": 5,
+      "cpu_peak_mV": -62.34663397016703,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 247,
+      "minimum_length": 0,
+      "cpu_peak_mV": -65.0,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 248,
+      "minimum_length": 6,
+      "cpu_peak_mV": -62.210392610111796,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 249,
+      "minimum_length": 1,
+      "cpu_peak_mV": -61.01705909121475,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 250,
+      "minimum_length": 1,
+      "cpu_peak_mV": -62.60860190328373,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 251,
+      "minimum_length": 3,
+      "cpu_peak_mV": -58.54165367920117,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 252,
+      "minimum_length": 4,
+      "cpu_peak_mV": -62.42045587055301,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 253,
+      "minimum_length": 2,
+      "cpu_peak_mV": -59.71196556112015,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 254,
+      "minimum_length": 0,
+      "cpu_peak_mV": -64.26094779821472,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 255,
+      "minimum_length": 0,
+      "cpu_peak_mV": -63.85901511712413,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 256,
+      "minimum_length": 0,
+      "cpu_peak_mV": -63.02919252635942,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 257,
+      "minimum_length": 0,
+      "cpu_peak_mV": -64.84189418053634,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 258,
+      "minimum_length": 7,
+      "cpu_peak_mV": -59.060457971231315,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 2
+    },
+    {
+      "case_id": 259,
+      "minimum_length": 0,
+      "cpu_peak_mV": -63.05168888937727,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 260,
+      "minimum_length": 1,
+      "cpu_peak_mV": -62.52184891338121,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 261,
+      "minimum_length": 2,
+      "cpu_peak_mV": -60.4753864661689,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 262,
+      "minimum_length": 2,
+      "cpu_peak_mV": -61.19084384575693,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 263,
+      "minimum_length": 0,
+      "cpu_peak_mV": -64.77321804088893,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 264,
+      "minimum_length": 2,
+      "cpu_peak_mV": -62.8742478489037,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 265,
+      "minimum_length": 0,
+      "cpu_peak_mV": -62.54675687011248,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 266,
+      "minimum_length": 2,
+      "cpu_peak_mV": -62.03215669730547,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 267,
+      "minimum_length": 2,
+      "cpu_peak_mV": -61.06274914927389,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 268,
+      "minimum_length": 0,
+      "cpu_peak_mV": -64.96758106693017,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 269,
+      "minimum_length": 3,
+      "cpu_peak_mV": -61.81045227382075,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 270,
+      "minimum_length": 2,
+      "cpu_peak_mV": -60.22553795890645,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 271,
+      "minimum_length": 8,
+      "cpu_peak_mV": -61.05109612716706,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 7
+    },
+    {
+      "case_id": 272,
+      "minimum_length": 3,
+      "cpu_peak_mV": -60.09773948480884,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 273,
+      "minimum_length": 7,
+      "cpu_peak_mV": -61.874245616084075,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 2
+    },
+    {
+      "case_id": 274,
+      "minimum_length": 4,
+      "cpu_peak_mV": -61.459556113215484,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 275,
+      "minimum_length": 0,
+      "cpu_peak_mV": -63.831562961298935,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 276,
+      "minimum_length": 5,
+      "cpu_peak_mV": -60.70132514147649,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 277,
+      "minimum_length": 4,
+      "cpu_peak_mV": -62.09860300929585,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 278,
+      "minimum_length": 3,
+      "cpu_peak_mV": -59.45613074937565,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 279,
+      "minimum_length": 0,
+      "cpu_peak_mV": -63.79494922667442,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 280,
+      "minimum_length": 0,
+      "cpu_peak_mV": -59.61372269363209,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 281,
+      "minimum_length": 4,
+      "cpu_peak_mV": -60.06637698017686,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 282,
+      "minimum_length": 4,
+      "cpu_peak_mV": -60.88578975866493,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 283,
+      "minimum_length": 4,
+      "cpu_peak_mV": -62.6998207870894,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 284,
+      "minimum_length": 0,
+      "cpu_peak_mV": -62.668608178824535,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 285,
+      "minimum_length": 1,
+      "cpu_peak_mV": -63.12913882284153,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 286,
+      "minimum_length": 6,
+      "cpu_peak_mV": -61.17004876589224,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 287,
+      "minimum_length": 9,
+      "cpu_peak_mV": -58.00422561038453,
+      "certificate_kind": "independent_cpu_forward",
+      "committed_batches": 33
+    },
+    {
+      "case_id": 288,
+      "minimum_length": 4,
+      "cpu_peak_mV": -63.30650191265493,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 289,
+      "minimum_length": 0,
+      "cpu_peak_mV": -62.667783567624376,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 290,
+      "minimum_length": 0,
+      "cpu_peak_mV": -61.618505725088205,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 291,
+      "minimum_length": 4,
+      "cpu_peak_mV": -60.1889550138878,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 292,
+      "minimum_length": 2,
+      "cpu_peak_mV": -62.334903372357964,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 293,
+      "minimum_length": 3,
+      "cpu_peak_mV": -62.83237383550332,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 294,
+      "minimum_length": 6,
+      "cpu_peak_mV": -61.81687246484087,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 295,
+      "minimum_length": 1,
+      "cpu_peak_mV": -61.97726884431522,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 296,
+      "minimum_length": 3,
+      "cpu_peak_mV": -60.23792388600223,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 1
+    },
+    {
+      "case_id": 297,
+      "minimum_length": 0,
+      "cpu_peak_mV": -62.40869137096886,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 298,
+      "minimum_length": 0,
+      "cpu_peak_mV": -60.84773260611419,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    },
+    {
+      "case_id": 299,
+      "minimum_length": 1,
+      "cpu_peak_mV": -61.551423978400955,
+      "certificate_kind": "existing_cpu_certificate",
+      "committed_batches": 0
+    }
+  ],
+  "deferred_ids": [
+    138,
+    164
+  ],
+  "scope": "IDs, bounds, input fingerprints, checkpoint prefix metadata, chunk presence, stored CPU certificate values; no new simulations"
+}

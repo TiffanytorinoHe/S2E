@@ -1,0 +1,62 @@
+{
+  "case_id": 124,
+  "fingerprint": "88860cb3cacbedecec08e79a694fae3e3ccaa8cb623a6b88399131d28df746d0",
+  "specification": {
+    "case_id": 124,
+    "input_sha256": {
+      "exc_locations.npy": "596ee36c0524ca1c7010e7a867b4a3d2adb564513a9e2e3f3ca220fbd3d44a24",
+      "exc_times_ms.npy": "b24179868675badabf2b6a59d0f58058d62ecf361ecadc7f0405fe2e37cf9df7"
+    },
+    "model": "all_hh_direct_hh_dt0.025_t100_vinit-65_exc6_w0.001_ratio1",
+    "candidate_grid": "segments0..3 x times20,30,40,50,60; increment0.001",
+    "enumeration_order": "increasing-k then itertools.combinations_with_replacement(range(20),k)",
+    "model_source_sha256": "f20977067b73ac79d42a866c1b09e71b24233c88e650f87a91b6152bb704e01c",
+    "enumeration_source_sha256": "7b7298d9eb0598fec3242002ba39be8bf0ccd865b00dd1470db466692f63255a"
+  },
+  "next_ordinal": 20,
+  "upper_bound": 2,
+  "upper_ans": [
+    18,
+    15
+  ],
+  "algorithm_source_sha256": "f90baa8ea2314d24b4dcceeb79d17a51878b28ae7273553d0c6e038c9990a3c0",
+  "reference_baseline_peak_mV": 41.41462845591564,
+  "reference_final_peak_mV": -63.54426460096809,
+  "batches": [
+    {
+      "file": "batch_000000000000_000000000020.npz",
+      "sha256": "5a1ab987c013fec20d34f816a06b4da646cc072b24b9e670c59dfd54e318d96e",
+      "start": 0,
+      "stop": 20,
+      "valid": 20,
+      "padded": 0,
+      "cpu_boundary_checks": 0,
+      "seconds": 0.3528200816363096,
+      "timing": {
+        "weight_update_s": 8.339248597621918e-05,
+        "gpu_simulation_and_download_s": 0.3449944593012333,
+        "total_s": 0.34525853767991066
+      }
+    }
+  ],
+  "created_at": 1790160521.8589125,
+  "job_id": "142038",
+  "last_calibration": {
+    "build_s": 0.4525196310132742,
+    "gpu_peaks": [
+      41.41462707519531,
+      -63.54426574707031
+    ],
+    "at": 1790160523.3970215,
+    "batch_size": 20
+  },
+  "pending_witness": {
+    "length": 1,
+    "ans": [
+      0
+    ],
+    "peak": -62.3312873840332,
+    "ordinal": 0
+  },
+  "updated_at": 1790160523.7536328
+}

@@ -1,0 +1,69 @@
+{
+  "reference": "FIGS_ALL/fig2/frames_20261011",
+  "renderer": "design_fig2_spatial_20261010.draw_morph",
+  "geometry": "FIGS_ALL/fig2/frames_20261011/source_data/geometry_l5pc.json",
+  "linewidth_rule": "max(4.95, diameter_um*2.18)*0.113*1.5 pt",
+  "subdivision_um": 2.2,
+  "section_only_color_interpolation": true,
+  "gamma": 0.62,
+  "cap_rule": "0.85 times 95th percentile of positive pooled segment fractions across all eight maps",
+  "cap_fraction": 0.01362527334617691,
+  "axes": [
+    {
+      "condition": "ampa",
+      "mode": "pulse",
+      "minimum_linewidth_pt": 0.839025,
+      "maximum_linewidth_pt": 2.6622708628566483,
+      "soma_radius_um": 10.174712982177734
+    },
+    {
+      "condition": "ampa",
+      "mode": "train",
+      "minimum_linewidth_pt": 0.839025,
+      "maximum_linewidth_pt": 2.6622708628566483,
+      "soma_radius_um": 10.174712982177734
+    },
+    {
+      "condition": "nmda",
+      "mode": "pulse",
+      "minimum_linewidth_pt": 0.839025,
+      "maximum_linewidth_pt": 2.6622708628566483,
+      "soma_radius_um": 10.174712982177734
+    },
+    {
+      "condition": "nmda",
+      "mode": "train",
+      "minimum_linewidth_pt": 0.839025,
+      "maximum_linewidth_pt": 2.6622708628566483,
+      "soma_radius_um": 10.174712982177734
+    },
+    {
+      "condition": "bhigh",
+      "mode": "pulse",
+      "minimum_linewidth_pt": 0.839025,
+      "maximum_linewidth_pt": 2.6622708628566483,
+      "soma_radius_um": 10.174712982177734
+    },
+    {
+      "condition": "bhigh",
+      "mode": "train",
+      "minimum_linewidth_pt": 0.839025,
+      "maximum_linewidth_pt": 2.6622708628566483,
+      "soma_radius_um": 10.174712982177734
+    },
+    {
+      "condition": "sync",
+      "mode": "pulse",
+      "minimum_linewidth_pt": 0.839025,
+      "maximum_linewidth_pt": 2.6622708628566483,
+      "soma_radius_um": 10.174712982177734
+    },
+    {
+      "condition": "sync",
+      "mode": "train",
+      "minimum_linewidth_pt": 0.839025,
+      "maximum_linewidth_pt": 2.6622708628566483,
+      "soma_radius_um": 10.174712982177734
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "case_id": 221,
+  "fingerprint": "23b992f5b2e48d0a18b004892d14a61bfab9ef0859f91063acfa27657f939421",
+  "specification": {
+    "case_id": 221,
+    "input_sha256": {
+      "exc_locations.npy": "596ee36c0524ca1c7010e7a867b4a3d2adb564513a9e2e3f3ca220fbd3d44a24",
+      "exc_times_ms.npy": "b24179868675badabf2b6a59d0f58058d62ecf361ecadc7f0405fe2e37cf9df7"
+    },
+    "model": "all_hh_direct_hh_dt0.025_t100_vinit-65_exc6_w0.001_ratio1",
+    "candidate_grid": "segments0..3 x times20,30,40,50,60; increment0.001",
+    "enumeration_order": "increasing-k then itertools.combinations_with_replacement(range(20),k)",
+    "model_source_sha256": "f20977067b73ac79d42a866c1b09e71b24233c88e650f87a91b6152bb704e01c",
+    "enumeration_source_sha256": "7b7298d9eb0598fec3242002ba39be8bf0ccd865b00dd1470db466692f63255a"
+  },
+  "next_ordinal": 230,
+  "upper_bound": 3,
+  "upper_ans": [
+    18,
+    16,
+    6
+  ],
+  "algorithm_source_sha256": "65803b688e42fdf8e787303337ac0ce9670b6b376423ad53403b7d57c446d69b",
+  "reference_baseline_peak_mV": 43.168362829873054,
+  "reference_final_peak_mV": -63.128859140338676,
+  "batches": [
+    {
+      "file": "batch_000000000000_000000000230.npz",
+      "sha256": "94913e1db545884e6adfd1a73e03199ef18c7428f743a2c548ff1d2418682068",
+      "start": 0,
+      "stop": 230,
+      "valid": 230,
+      "padded": 0,
+      "cpu_boundary_checks": 0,
+      "seconds": 0.3388727493584156,
+      "timing": {
+        "weight_update_s": 0.0003247596323490143,
+        "gpu_simulation_and_download_s": 0.32871413975954056,
+        "total_s": 0.32972215488553047
+      }
+    }
+  ],
+  "created_at": 1790160603.56223,
+  "job_id": "142037",
+  "last_calibration": {
+    "build_s": 0.5180972088128328,
+    "gpu_peaks": [
+      43.16836166381836,
+      -63.12886047363281
+    ],
+    "at": 1790160605.1746202,
+    "batch_size": 230
+  },
+  "pending_witness": {
+    "length": 2,
+    "ans": [
+      0,
+      1
+    ],
+    "peak": -60.30379104614258,
+    "ordinal": 21
+  },
+  "updated_at": 1790160605.517693
+}

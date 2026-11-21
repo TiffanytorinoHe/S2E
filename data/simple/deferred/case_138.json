@@ -1,0 +1,8 @@
+{
+  "case_id": 138,
+  "ans_length": 18,
+  "upper_bound_simulations": 15905368709,
+  "estimated_seconds_at_15000_per_s": 1060357.9139333332,
+  "reason": "ans > 14; outside selected scope; no groundtruth claim",
+  "algorithm_result_sha256": "97087878eaf1689458ae7b63c4989187061ed81cf34536a3b0632fa62df7d410"
+}

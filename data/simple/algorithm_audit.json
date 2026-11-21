@@ -1,0 +1,49 @@
+{
+  "verified_cases": 300,
+  "all_hh_table_off": true,
+  "baseline_spiking": 236,
+  "all_solutions_feasible": true,
+  "input_bank_shape": [
+    300,
+    6
+  ],
+  "first50_are_original_rows_0_to_49": true,
+  "first50_length_changes": [
+    {
+      "case_id": 10,
+      "old": 2,
+      "new": 1
+    },
+    {
+      "case_id": 46,
+      "old": 4,
+      "new": 3
+    },
+    {
+      "case_id": 47,
+      "old": 4,
+      "new": 3
+    },
+    {
+      "case_id": 49,
+      "old": 4,
+      "new": 5
+    }
+  ],
+  "first50_different_ans_ids": [
+    10,
+    46,
+    47,
+    49
+  ],
+  "mean_length_all": 3.263333333333333,
+  "mean_length_baseline_spiking": 4.148305084745763,
+  "median_length_baseline_spiking": 3.0,
+  "deferred_cases": 11,
+  "short_cases": 289,
+  "all_enumeration_upper_bound": 33634259061,
+  "short_enumeration_upper_bound": 107243942,
+  "deferred_fraction_of_enumeration": 0.9968114670876056,
+  "short_single_gpu_hours_at15000": 1.9859989259259259,
+  "audited_at": 1790160550.1367726
+}

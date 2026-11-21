@@ -1,0 +1,67 @@
+{
+  "case_id": 251,
+  "fingerprint": "00d2bfc34657c4ef1aca743236f58879292baab9464ba5dc9ccc7ad58eb24fef",
+  "specification": {
+    "case_id": 251,
+    "input_sha256": {
+      "exc_locations.npy": "596ee36c0524ca1c7010e7a867b4a3d2adb564513a9e2e3f3ca220fbd3d44a24",
+      "exc_times_ms.npy": "b24179868675badabf2b6a59d0f58058d62ecf361ecadc7f0405fe2e37cf9df7"
+    },
+    "model": "all_hh_direct_hh_dt0.025_t100_vinit-65_exc6_w0.001_ratio1",
+    "candidate_grid": "segments0..3 x times20,30,40,50,60; increment0.001",
+    "enumeration_order": "increasing-k then itertools.combinations_with_replacement(range(20),k)",
+    "model_source_sha256": "f20977067b73ac79d42a866c1b09e71b24233c88e650f87a91b6152bb704e01c",
+    "enumeration_source_sha256": "7b7298d9eb0598fec3242002ba39be8bf0ccd865b00dd1470db466692f63255a"
+  },
+  "next_ordinal": 10625,
+  "upper_bound": 5,
+  "upper_ans": [
+    18,
+    10,
+    10,
+    10,
+    16
+  ],
+  "algorithm_source_sha256": "f8e5c97d19d44914cd4f44f3c9a6a76cccbae525bf3ec181ef42693cb67ac733",
+  "reference_baseline_peak_mV": 42.71622578491843,
+  "reference_final_peak_mV": -62.08411689750954,
+  "batches": [
+    {
+      "file": "batch_000000000000_000000010625.npz",
+      "sha256": "3abf97d8583ffcf4b0aaba03a7d31f82992cd40e9d9d65f1a9dcd2b2c19da757",
+      "start": 0,
+      "stop": 10625,
+      "valid": 10625,
+      "padded": 0,
+      "cpu_boundary_checks": 0,
+      "seconds": 0.9954213239252567,
+      "timing": {
+        "weight_update_s": 0.02646128460764885,
+        "gpu_simulation_and_download_s": 0.8736125268042088,
+        "total_s": 0.9259261339902878
+      }
+    }
+  ],
+  "created_at": 1790160804.1491475,
+  "job_id": "142037",
+  "last_calibration": {
+    "build_s": 4.100594533607364,
+    "gpu_peaks": [
+      42.716224670410156,
+      -62.0841178894043
+    ],
+    "at": 1790160810.0315683,
+    "batch_size": 10625
+  },
+  "pending_witness": {
+    "length": 3,
+    "ans": [
+      0,
+      1,
+      10
+    ],
+    "peak": -58.54165267944336,
+    "ordinal": 259
+  },
+  "updated_at": 1790160811.031563
+}

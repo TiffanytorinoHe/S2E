@@ -1,0 +1,25 @@
+{
+  "case_id": 110,
+  "fingerprint": "1e009746e6185476f609c9c7898a12b5fc51a9d9a5d5a761c1ae071e40e8278b",
+  "specification": {
+    "case_id": 110,
+    "input_sha256": {
+      "exc_locations.npy": "596ee36c0524ca1c7010e7a867b4a3d2adb564513a9e2e3f3ca220fbd3d44a24",
+      "exc_times_ms.npy": "b24179868675badabf2b6a59d0f58058d62ecf361ecadc7f0405fe2e37cf9df7"
+    },
+    "model": "all_hh_direct_hh_dt0.025_t100_vinit-65_exc6_w0.001_ratio1",
+    "candidate_grid": "segments0..3 x times20,30,40,50,60; increment0.001",
+    "enumeration_order": "increasing-k then itertools.combinations_with_replacement(range(20),k)",
+    "model_source_sha256": "f20977067b73ac79d42a866c1b09e71b24233c88e650f87a91b6152bb704e01c",
+    "enumeration_source_sha256": "7b7298d9eb0598fec3242002ba39be8bf0ccd865b00dd1470db466692f63255a"
+  },
+  "next_ordinal": 0,
+  "upper_bound": 0,
+  "upper_ans": [],
+  "algorithm_source_sha256": "031307ec2717b3cfe906bcf0ad925c6308cdc003d916773a66685742b9631289",
+  "reference_baseline_peak_mV": -63.60548670372012,
+  "reference_final_peak_mV": -63.60548670372012,
+  "batches": [],
+  "created_at": 1790160479.1979537,
+  "job_id": "142037"
+}

@@ -1,0 +1,13 @@
+{
+  "source_svg": "D:\\Important\\Project\\codes\\GRADNEURON\\FIGS_ALL\\fig1\\ppt_collage_matched_v6_20261013\\Fig1_PPT_matched.svg",
+  "trace": "D:\\Important\\Project\\codes\\GRADNEURON\\methods_rewrite_20261027\\work\\validation_evidence\\results\\l5pc_ampa\\case_000\\traces.npz",
+  "trace_sha256": "17bc76a8133dc3d6bb628aeeee332ed50aec9346a8d194fde493a9a89cc398d2",
+  "inset_interval_ms": [
+    100,
+    200
+  ],
+  "method": "Full-state iterative S2E voltage reconstruction",
+  "soma_max_error_mV": 4.623287308547219e-08,
+  "scale_bar_ms": 20,
+  "scale_bar_mV": 20
+}

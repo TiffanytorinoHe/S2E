@@ -1,0 +1,53 @@
+{
+  "setting": "all_hh",
+  "run_id": 135,
+  "dtype": "float",
+  "hh_table": false,
+  "status": "solved",
+  "ans": [
+    11,
+    11,
+    18,
+    14
+  ],
+  "ans_length": 4,
+  "baseline_peak_mV": 43.130638973727905,
+  "final_peak_mV": -61.88030322016526,
+  "elapsed_s": 30.147002268582582,
+  "baseline_spiked": true,
+  "final_spiked": false,
+  "baseline_spike_count": 2,
+  "ans_unique_candidates": 3,
+  "max_increments": 100,
+  "exc_segment_ids": [
+    2,
+    1,
+    3,
+    2,
+    2,
+    1
+  ],
+  "exc_times_ms": [
+    59.30466716573741,
+    52.37660506316601,
+    41.00818006141097,
+    31.659533328733147,
+    56.80855205636879,
+    31.736574551401585
+  ],
+  "entry_sha256": "de886720e57480529c02b5a8439b0d220494e814ab3ab86fa06bb62f80640e4d",
+  "independent_forward_verified": true,
+  "case_id": 135,
+  "origin": "algorithm_hh_table_off",
+  "algorithm_hh_table": false,
+  "reference_hh_table": false,
+  "input_sha256": {
+    "exc_locations.npy": "596ee36c0524ca1c7010e7a867b4a3d2adb564513a9e2e3f3ca220fbd3d44a24",
+    "exc_times_ms.npy": "b24179868675badabf2b6a59d0f58058d62ecf361ecadc7f0405fe2e37cf9df7"
+  },
+  "algorithm_result_path": "/ceph/home/zhaofei01/heyutao/codes/SIMPLE/production_all_hh_300/algorithm/all_hh/case_135/rec/result.json",
+  "algorithm_result_sha256": "ea9f6589ba6ea020bc876c3c92be0c344583e0ed9e09ada2de2f3014de12f5b0",
+  "published_at": 1790160040.8482125,
+  "reference_baseline_peak_mV": 43.130638973727905,
+  "reference_final_peak_mV": -61.88030322016526
+}

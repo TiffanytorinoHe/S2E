@@ -1,0 +1,56 @@
+{
+  "case_id": 25,
+  "fingerprint": "4221638426963b0161165665ad25600ec6899b5c8be6779a30a46b3f38c05b63",
+  "specification": {
+    "case_id": 25,
+    "input_sha256": {
+      "exc_locations.npy": "596ee36c0524ca1c7010e7a867b4a3d2adb564513a9e2e3f3ca220fbd3d44a24",
+      "exc_times_ms.npy": "b24179868675badabf2b6a59d0f58058d62ecf361ecadc7f0405fe2e37cf9df7"
+    },
+    "model": "all_hh_direct_hh_dt0.025_t100_vinit-65_exc6_w0.001_ratio1",
+    "candidate_grid": "segments0..3 x times20,30,40,50,60; increment0.001",
+    "enumeration_order": "increasing-k then itertools.combinations_with_replacement(range(20),k)",
+    "model_source_sha256": "f20977067b73ac79d42a866c1b09e71b24233c88e650f87a91b6152bb704e01c",
+    "enumeration_source_sha256": "7b7298d9eb0598fec3242002ba39be8bf0ccd865b00dd1470db466692f63255a"
+  },
+  "next_ordinal": 1770,
+  "upper_bound": 4,
+  "upper_ans": [
+    11,
+    6,
+    6,
+    1
+  ],
+  "algorithm_source_sha256": "8c0112667baa680f910e272ebb2915effa2862065a28b13536bfedeefa34953a",
+  "reference_baseline_peak_mV": 43.645160968938605,
+  "reference_final_peak_mV": -61.8901315675079,
+  "batches": [
+    {
+      "file": "batch_000000000000_000000001770.npz",
+      "sha256": "0aec56bb93c440ab6b4e569f3920ea48f878d7dbcc39ae3648fd7536d2d9d29e",
+      "start": 0,
+      "stop": 1770,
+      "valid": 1770,
+      "padded": 0,
+      "cpu_boundary_checks": 0,
+      "seconds": 0.4437593277543783,
+      "timing": {
+        "weight_update_s": 0.005882766097784042,
+        "gpu_simulation_and_download_s": 0.388180635869503,
+        "total_s": 0.39852521009743214
+      }
+    }
+  ],
+  "created_at": 1790160630.6992054,
+  "job_id": "142037",
+  "last_calibration": {
+    "build_s": 1.0567170344293118,
+    "gpu_peaks": [
+      43.64516067504883,
+      -61.890132904052734
+    ],
+    "at": 1790160633.346487,
+    "batch_size": 1770
+  },
+  "updated_at": 1790160633.8117063
+}

@@ -1,0 +1,70 @@
+{
+  "case_id": 101,
+  "fingerprint": "2b22d3b63f6c108ee43897b2cec9a534247fc3f93f54de2d30048cdb344caeeb",
+  "specification": {
+    "case_id": 101,
+    "input_sha256": {
+      "exc_locations.npy": "596ee36c0524ca1c7010e7a867b4a3d2adb564513a9e2e3f3ca220fbd3d44a24",
+      "exc_times_ms.npy": "b24179868675badabf2b6a59d0f58058d62ecf361ecadc7f0405fe2e37cf9df7"
+    },
+    "model": "all_hh_direct_hh_dt0.025_t100_vinit-65_exc6_w0.001_ratio1",
+    "candidate_grid": "segments0..3 x times20,30,40,50,60; increment0.001",
+    "enumeration_order": "increasing-k then itertools.combinations_with_replacement(range(20),k)",
+    "model_source_sha256": "f20977067b73ac79d42a866c1b09e71b24233c88e650f87a91b6152bb704e01c",
+    "enumeration_source_sha256": "7b7298d9eb0598fec3242002ba39be8bf0ccd865b00dd1470db466692f63255a"
+  },
+  "next_ordinal": 53129,
+  "upper_bound": 6,
+  "upper_ans": [
+    18,
+    16,
+    16,
+    6,
+    6,
+    1
+  ],
+  "algorithm_source_sha256": "b4e07f67e2145401caea507f3b49142de7aec853f7b292defcda2a3ef6cba7c2",
+  "reference_baseline_peak_mV": 44.71281547337306,
+  "reference_final_peak_mV": -62.280961958268,
+  "batches": [
+    {
+      "file": "batch_000000000000_000000053129.npz",
+      "sha256": "acac8124d28e1f68dad4591c1fc8e680b162ecf928883ab53a36da93fd0b86ca",
+      "start": 0,
+      "stop": 53129,
+      "valid": 53129,
+      "padded": 0,
+      "cpu_boundary_checks": 0,
+      "seconds": 3.755410296842456,
+      "timing": {
+        "weight_update_s": 0.04137412831187248,
+        "gpu_simulation_and_download_s": 3.3451655209064484,
+        "total_s": 3.5109865330159664
+      }
+    }
+  ],
+  "created_at": 1790160941.8487496,
+  "job_id": "142037",
+  "last_calibration": {
+    "build_s": 20.95769302174449,
+    "gpu_peaks": [
+      44.71281433105469,
+      -62.28096008300781
+    ],
+    "at": 1790160967.335996,
+    "batch_size": 53129
+  },
+  "pending_witness": {
+    "length": 5,
+    "ans": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "peak": -61.05854034423828,
+    "ordinal": 19480
+  },
+  "updated_at": 1790160971.095938
+}

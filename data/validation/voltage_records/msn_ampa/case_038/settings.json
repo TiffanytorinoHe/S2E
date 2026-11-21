@@ -1,0 +1,42 @@
+{
+  "dt_ms": 0.025,
+  "celsius": 35.0,
+  "initial_voltage_mV": -80.0,
+  "secondorder": 0,
+  "n_segments": 207,
+  "steps": 16001,
+  "duration_ms": 400.02500000000003,
+  "model": "msn",
+  "regime": "ampa",
+  "case": 38,
+  "new_msn_config": true,
+  "counts": [
+    2160,
+    2160,
+    600
+  ],
+  "hh_tables": {
+    "usetable_hh": 0.0
+  },
+  "mechanism_tables": {
+    "naf_kai": 0,
+    "kaf_kai": 0,
+    "kas_kai": 0,
+    "kdr_kai": 0,
+    "kir_kai": 0,
+    "bk": 0,
+    "sk_kai": 0,
+    "car_kai": 0,
+    "can_kai": 0,
+    "cal12": 0,
+    "cal13": 0,
+    "cat32": 0,
+    "cat33": 0
+  },
+  "thresholds": {
+    "max_abs_voltage_mV": 0.001,
+    "rmse_all_segments_mV": 0.0001,
+    "spike_grid_match": true
+  },
+  "definition": "V, all active gates, Ca pools and synaptic states evolve solely from their own preceding values; NEURON used only for initial state/parameters and reference error measurement."
+}

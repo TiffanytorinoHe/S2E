@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+*.o
+*.a
+x86_64/
+environment/build/
+outputs/
+.DS_Store
+.idea/
+.vscode/
+
+# Local credentials and environments
+.env
+.env.*
+.venv/
+.ssh/
+*.pem
+*.key

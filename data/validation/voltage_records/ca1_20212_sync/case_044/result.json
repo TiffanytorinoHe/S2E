@@ -1,0 +1,106 @@
+{
+  "identity": {
+    "group": "ca1_20212_sync",
+    "case": 44,
+    "input_sha256": "0aac327e12ce9f195345e7e18c2007aa3ccd373a31bb1b6691b802d44f6feabf",
+    "source_release_sha256": "f40e7f8c3ba5fdda63cdd0efb01030fa3dc1ad428c89d6901b0f39550b6fef08",
+    "experiment_manifest_sha256": "c8150bfbfc776b4636ee1a0bb480763b65705ae09587333745a7df70bfdf67f6",
+    "validation_code": {
+      "ca1_rates.py": "2663ec64bc64d9679a1c4827045f99969cb373d279279c3cddf6c0b3c6174d74",
+      "synapse_events.py": "ee54b840b32226fcddc6696eac6ad2d437a29ab6ec866b5f916dc7875b0c8619",
+      "l5_rates.py": "88411d150ec16368e62feb7f028901c7a9eeedb198f24a5eb9ac4d14096e29df",
+      "msn_rates.py": "2bd602ce8b0f1c95f5b2dc89b10daa846c616bf4b245f545ef7b6742653aa745",
+      "run_case.py": "3bf5f32e48901752b566e63ec3af1a073d7742ef88f4dcb5c959e842b080548c",
+      "engine.py": "ad193dd1044131bc6cd802a72eb9088b98a45d958de2eb9009089313277eb7f3"
+    }
+  },
+  "all_segments_max_abs_mV": 3.6458215561196994e-05,
+  "all_segments_rmse_mV": 1.5778572808433727e-07,
+  "soma_max_abs_mV": 6.3434614787638566e-06,
+  "soma_rmse_mV": 2.0365273733844242e-07,
+  "reference_spikes_ms": [
+    177.35000000000002,
+    192.375,
+    214.8,
+    249.65,
+    281.875,
+    300.85,
+    317.85,
+    339.32500000000005,
+    361.07500000000005,
+    380.52500000000003
+  ],
+  "rollout_spikes_ms": [
+    177.35000000000002,
+    192.375,
+    214.8,
+    249.65,
+    281.875,
+    300.85,
+    317.85,
+    339.32500000000005,
+    361.07500000000005,
+    380.52500000000003
+  ],
+  "spike_grid_identical": true,
+  "spike_time_max_abs_ms": 0.0,
+  "sampled_ca_max_abs_mM": 4.5918061020167045e-11,
+  "sampled_gate_max_abs": 2.548666337975902e-07,
+  "synapse_sampled_max_abs_uS": 2.0122792321330962e-16,
+  "one_step_max_mV": 3.2746072520239977e-10,
+  "worst_error": {
+    "step": 9962,
+    "segment": 322,
+    "error_mV": 3.6458215561196994e-05
+  },
+  "reference_seconds": 14.38074987474829,
+  "autonomous_seconds": 24.842774686403573,
+  "passed": true,
+  "windows": [
+    {
+      "start_ms": 0.0,
+      "end_ms": 50.0,
+      "max_all_segments_mV": 2.0306032411099295e-09
+    },
+    {
+      "start_ms": 50.0,
+      "end_ms": 100.0,
+      "max_all_segments_mV": 2.3452031427950715e-09
+    },
+    {
+      "start_ms": 100.0,
+      "end_ms": 150.0,
+      "max_all_segments_mV": 6.982180167369734e-09
+    },
+    {
+      "start_ms": 150.0,
+      "end_ms": 200.0,
+      "max_all_segments_mV": 1.62078296028767e-06
+    },
+    {
+      "start_ms": 200.0,
+      "end_ms": 250.0,
+      "max_all_segments_mV": 3.6458215561196994e-05
+    },
+    {
+      "start_ms": 250.0,
+      "end_ms": 300.0,
+      "max_all_segments_mV": 1.0001297212625104e-05
+    },
+    {
+      "start_ms": 300.0,
+      "end_ms": 350.0,
+      "max_all_segments_mV": 1.0599998322646798e-05
+    },
+    {
+      "start_ms": 350.0,
+      "end_ms": 400.0,
+      "max_all_segments_mV": 1.472446947659023e-05
+    },
+    {
+      "start_ms": 400.0,
+      "end_ms": 400.02500000000003,
+      "max_all_segments_mV": 3.5240554261406487e-06
+    }
+  ]
+}

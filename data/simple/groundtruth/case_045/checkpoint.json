@@ -1,0 +1,66 @@
+{
+  "case_id": 45,
+  "fingerprint": "76337b0b8eccb5eddeb616040bf7dd2c30025e4530d6e36e54749041a3557641",
+  "specification": {
+    "case_id": 45,
+    "input_sha256": {
+      "exc_locations.npy": "596ee36c0524ca1c7010e7a867b4a3d2adb564513a9e2e3f3ca220fbd3d44a24",
+      "exc_times_ms.npy": "b24179868675badabf2b6a59d0f58058d62ecf361ecadc7f0405fe2e37cf9df7"
+    },
+    "model": "all_hh_direct_hh_dt0.025_t100_vinit-65_exc6_w0.001_ratio1",
+    "candidate_grid": "segments0..3 x times20,30,40,50,60; increment0.001",
+    "enumeration_order": "increasing-k then itertools.combinations_with_replacement(range(20),k)",
+    "model_source_sha256": "f20977067b73ac79d42a866c1b09e71b24233c88e650f87a91b6152bb704e01c",
+    "enumeration_source_sha256": "7b7298d9eb0598fec3242002ba39be8bf0ccd865b00dd1470db466692f63255a"
+  },
+  "next_ordinal": 1770,
+  "upper_bound": 4,
+  "upper_ans": [
+    18,
+    16,
+    1,
+    6
+  ],
+  "algorithm_source_sha256": "00354e5bfdff928249f3f01caa35c40514f9bad39210250ad37e4ec32b4fe543",
+  "reference_baseline_peak_mV": 43.07043707995127,
+  "reference_final_peak_mV": -62.292847389135794,
+  "batches": [
+    {
+      "file": "batch_000000000000_000000001770.npz",
+      "sha256": "79156d70e8a7faf074bf7cfd653468658928248f84735bd54aba4ac7f58dfedc",
+      "start": 0,
+      "stop": 1770,
+      "valid": 1770,
+      "padded": 0,
+      "cpu_boundary_checks": 0,
+      "seconds": 0.42680653743445873,
+      "timing": {
+        "weight_update_s": 0.005709899589419365,
+        "gpu_simulation_and_download_s": 0.39771189726889133,
+        "total_s": 0.40828882344067097
+      }
+    }
+  ],
+  "created_at": 1790160640.492061,
+  "job_id": "142037",
+  "last_calibration": {
+    "build_s": 1.05149950645864,
+    "gpu_peaks": [
+      43.070438385009766,
+      -62.2928466796875
+    ],
+    "at": 1790160643.1386433,
+    "batch_size": 1770
+  },
+  "pending_witness": {
+    "length": 3,
+    "ans": [
+      1,
+      1,
+      1
+    ],
+    "peak": -61.761600494384766,
+    "ordinal": 440
+  },
+  "updated_at": 1790160643.6901946
+}

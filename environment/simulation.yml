@@ -1,0 +1,22 @@
+name: s2e-simulation
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy=2.3.5
+  - scipy=1.16.3
+  - pandas=2.3.3
+  - matplotlib=3.10.7
+  - cmake
+  - ninja
+  - pybind11
+  - nanobind
+  - hdf5
+  - pkg-config
+  - sympy
+  - cython
+  - bison
+  - flex
+  - pip
+  - pip:
+      - torch==2.8.0

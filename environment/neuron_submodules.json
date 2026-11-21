@@ -1,0 +1,50 @@
+[
+  {
+    "path": "external/CLI11",
+    "mode": "160000",
+    "type": "commit",
+    "sha": "291c58789c031208f08f4f261a858b5b7083e8e2"
+  },
+  {
+    "path": "external/Random123",
+    "mode": "160000",
+    "type": "commit",
+    "sha": "b5cb15614e8f3eb0ff316bdc50c300ddd32fa3c1"
+  },
+  {
+    "path": "external/backward",
+    "mode": "160000",
+    "type": "commit",
+    "sha": "3bb9240cb15459768adb3e7d963a20e1523a6294"
+  },
+  {
+    "path": "external/catch2",
+    "mode": "160000",
+    "type": "commit",
+    "sha": "c4e3767e265808590986d5db6ca1b5532a7f3d13"
+  },
+  {
+    "path": "external/coding-conventions",
+    "mode": "160000",
+    "type": "commit",
+    "sha": "f8f8d69a66c23978d1c9c5dce62de79466f26e5d"
+  },
+  {
+    "path": "external/iv",
+    "mode": "160000",
+    "type": "commit",
+    "sha": "b86fc14d2167effef0f538c8899ba9737e658a40"
+  },
+  {
+    "path": "external/nmodl",
+    "mode": "160000",
+    "type": "commit",
+    "sha": "2ce4a2b91dfcfe6356b6a5003c4e99b8711564ee"
+  },
+  {
+    "path": "test/rxd/testdata",
+    "mode": "160000",
+    "type": "commit",
+    "sha": "be297655abf0f98be95a051576d43aad23cebbf0"
+  }
+]

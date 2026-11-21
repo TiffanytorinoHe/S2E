@@ -1,0 +1,64 @@
+{
+  "case_id": 41,
+  "fingerprint": "01dc55b14bf8eecc5e9f34637da02acaf3224e45eec72973765ac6322d9cbbce",
+  "specification": {
+    "case_id": 41,
+    "input_sha256": {
+      "exc_locations.npy": "596ee36c0524ca1c7010e7a867b4a3d2adb564513a9e2e3f3ca220fbd3d44a24",
+      "exc_times_ms.npy": "b24179868675badabf2b6a59d0f58058d62ecf361ecadc7f0405fe2e37cf9df7"
+    },
+    "model": "all_hh_direct_hh_dt0.025_t100_vinit-65_exc6_w0.001_ratio1",
+    "candidate_grid": "segments0..3 x times20,30,40,50,60; increment0.001",
+    "enumeration_order": "increasing-k then itertools.combinations_with_replacement(range(20),k)",
+    "model_source_sha256": "f20977067b73ac79d42a866c1b09e71b24233c88e650f87a91b6152bb704e01c",
+    "enumeration_source_sha256": "7b7298d9eb0598fec3242002ba39be8bf0ccd865b00dd1470db466692f63255a"
+  },
+  "next_ordinal": 230,
+  "upper_bound": 3,
+  "upper_ans": [
+    16,
+    17,
+    17
+  ],
+  "algorithm_source_sha256": "3aa2e5c1f4009915c6592d8d93196ed0411138ba226920478509631e61497baa",
+  "reference_baseline_peak_mV": 41.74746754812787,
+  "reference_final_peak_mV": -61.778749498469686,
+  "batches": [
+    {
+      "file": "batch_000000000000_000000000230.npz",
+      "sha256": "bc6b7f4608c28a0a095c656bbc1e594e956b9f1c4d96cf63754d7764c3a0b22c",
+      "start": 0,
+      "stop": 230,
+      "valid": 230,
+      "padded": 0,
+      "cpu_boundary_checks": 0,
+      "seconds": 0.36122495122253895,
+      "timing": {
+        "weight_update_s": 0.0003559347242116928,
+        "gpu_simulation_and_download_s": 0.35161372274160385,
+        "total_s": 0.35265504755079746
+      }
+    }
+  ],
+  "created_at": 1790160575.3838634,
+  "job_id": "142038",
+  "last_calibration": {
+    "build_s": 0.5305844061076641,
+    "gpu_peaks": [
+      41.747467041015625,
+      -61.778751373291016
+    ],
+    "at": 1790160577.0166118,
+    "batch_size": 230
+  },
+  "pending_witness": {
+    "length": 2,
+    "ans": [
+      2,
+      7
+    ],
+    "peak": -58.784584045410156,
+    "ordinal": 64
+  },
+  "updated_at": 1790160577.3819065
+}

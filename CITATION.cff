@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript; this is an author-review software archive."
+type: software
+title: "S2E: Simulator-to-Equation"
+version: "0.1.0-review"
+authors:
+  - family-names: He
+    given-names: Yutao
+  - family-names: He
+    given-names: Gan
+  - family-names: Huang
+    given-names: Boxiang
+  - family-names: Poirazi
+    given-names: Panayiota
+  - family-names: Du
+    given-names: Kai
+  - family-names: Huang
+    given-names: Tiejun
+abstract: "Code and frozen data for Deriving analytical theory from biophysically detailed neuron simulators reveals principles of dendritic inhibition."
+repository-code: "https://github.com/TiffanytorinoHe/S2E"

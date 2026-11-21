@@ -1,0 +1,94 @@
+{
+  "model": "CA1_20212",
+  "status": "Historical configurations reconstructed; production requires four GPU precision gates",
+  "input_policy": "Only original workspace CA1_20212/FIG2_D locations and events; no random generation",
+  "initial_voltage_mV": -70,
+  "native_temperature_C": 34,
+  "dt_ms": 0.025,
+  "stop_ms": 400.025,
+  "counts": {
+    "ampa": [
+      1000,
+      1000,
+      250
+    ],
+    "nmda": [
+      200,
+      360,
+      50
+    ],
+    "bhigh": [
+      200,
+      240,
+      50
+    ],
+    "sync": [
+      200,
+      200,
+      50
+    ]
+  },
+  "background_weight_uS": 0.001,
+  "sync_burst_indices": [
+    370,
+    399
+  ],
+  "sync_burst_weight_uS": 0.004,
+  "synapse_tau_ms": {
+    "AMPA": [
+      0.1,
+      2
+    ],
+    "NMDA": [
+      2,
+      75
+    ],
+    "GABA": [
+      1,
+      5
+    ]
+  },
+  "inhibitory_reversal_mV": -70,
+  "inhibitory_increment_uS": 0.001,
+  "candidate_nonaxonal_segments": 315,
+  "total_segments": 331,
+  "candidate_onsets_ms": [
+    100,
+    110,
+    120,
+    130,
+    140,
+    150,
+    160,
+    170,
+    180,
+    190,
+    200,
+    210,
+    220,
+    230,
+    240,
+    250,
+    260,
+    270,
+    280,
+    290,
+    300,
+    310,
+    320,
+    330,
+    340,
+    350,
+    360,
+    370,
+    380,
+    390,
+    400
+  ],
+  "validation_reference": "reconstruction_evidence.json",
+  "notes": [
+    "HH lookup is disabled where present; other native channel tables retained.",
+    "H-channel native discontinuity at -30 mV retained; exact local branch derivative used.",
+    "26 historical cases lack saved baseline voltage, but retain original input arrays and old ans; per-case baseline comparison is marked unavailable for those cases."
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "case_id": 45,
+  "setting": "all_hh",
+  "status": "complete",
+  "minimum_length": 3,
+  "witness": [
+    1,
+    1,
+    1
+  ],
+  "cpu_witness_peak_mV": -61.76160061497865,
+  "gpu_witness_peak_mV": -61.761600494384766,
+  "reason": "first feasible ordered multiset",
+  "first_feasible_ordinal": 440,
+  "upper_bound_used": 4,
+  "evaluated_candidates": 1770,
+  "exhaustive_candidates_below_minimum": 230,
+  "fingerprint": "76337b0b8eccb5eddeb616040bf7dd2c30025e4530d6e36e54749041a3557641",
+  "specification": {
+    "case_id": 45,
+    "input_sha256": {
+      "exc_locations.npy": "596ee36c0524ca1c7010e7a867b4a3d2adb564513a9e2e3f3ca220fbd3d44a24",
+      "exc_times_ms.npy": "b24179868675badabf2b6a59d0f58058d62ecf361ecadc7f0405fe2e37cf9df7"
+    },
+    "model": "all_hh_direct_hh_dt0.025_t100_vinit-65_exc6_w0.001_ratio1",
+    "candidate_grid": "segments0..3 x times20,30,40,50,60; increment0.001",
+    "enumeration_order": "increasing-k then itertools.combinations_with_replacement(range(20),k)",
+    "model_source_sha256": "f20977067b73ac79d42a866c1b09e71b24233c88e650f87a91b6152bb704e01c",
+    "enumeration_source_sha256": "7b7298d9eb0598fec3242002ba39be8bf0ccd865b00dd1470db466692f63255a"
+  },
+  "algorithm_source_sha256_used": "00354e5bfdff928249f3f01caa35c40514f9bad39210250ad37e4ec32b4fe543",
+  "cpu_verification": "/ceph/home/zhaofei01/heyutao/codes/SIMPLE/production_all_hh_300/groundtruth/case_045/cpu_checks/final_witness",
+  "completed_at": 1790160650.1387713,
+  "job_id": "142037",
+  "host": "node005",
+  "batch_count": 1
+}
