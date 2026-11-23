@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Please cite the accompanying manuscript; this is an author-review software archive."
+message: "Please cite the accompanying manuscript when using the S2E code or data."
 type: software
 title: "S2E: Simulator-to-Equation"
 version: "0.1.0-review"

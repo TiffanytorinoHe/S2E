@@ -1,6 +1,6 @@
 # Attribution and redistribution review
 
-The model files retain original author notices and scientific provenance. This review archive makes no new ownership claim over third-party code, mechanisms or morphologies.
+The model files retain original author notices and scientific provenance. This repository makes no new ownership claim over third-party code, mechanisms or morphologies.
 
 | Component | Source / citation |
 |---|---|
@@ -15,4 +15,4 @@ The model files retain original author notices and scientific provenance. This r
 | magic_enum | https://github.com/Neargye/magic_enum ; notices retained in supplied header |
 | Random123 | https://github.com/DEShawResearch/random123 ; notices retained in supplied headers |
 
-Before public redistribution, confirm the original model/morphology and NEURONG redistribution terms and choose a license for the authors' own S2E contributions. An open-source license for S2E does not automatically cover those assets. The archival source bundle did not include a top-level license for every model or for NEURONG. This is an author-review issue; no public repository has been created and no blanket license is attached to this archive. Preserve all applicable third-party notices in the eventual release.
+The source bundle does not include a top-level license for every model or for NEURONG. This repository has no repository-wide license. For reuse or redistribution, consult the original terms for each component, confirm permissions with the relevant rights holders where needed, and preserve the applicable notices.
